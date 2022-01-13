@@ -1,0 +1,925 @@
+2021-12-31 07:11:11,240 [main] INFO LT_Logger - entering the username
+2021-12-31 07:11:11,484 [main] INFO LT_Logger - entering the password
+2021-12-31 07:11:11,657 [main] INFO LT_Logger - clicking on login button
+2021-12-31 07:11:13,837 [main] INFO LT_Logger - getting page title
+2021-12-31 07:11:13,927 [main] INFO LT_Logger - verifying the logo
+2021-12-31 07:11:14,277 [main] INFO LT_Logger - clicking on logout button
+2021-12-31 07:26:39,246 [main] INFO LT_Logger - enter creds
+2021-12-31 07:26:51,667 [main] INFO LT_Logger - clicking on login button
+2021-12-31 07:28:09,085 [main] INFO LT_Logger - enter creds
+2021-12-31 07:28:12,261 [main] INFO LT_Logger - clicking on login button
+2021-12-31 07:29:57,858 [main] INFO LT_Logger - enter creds
+2021-12-31 07:30:00,583 [main] INFO LT_Logger - clicking on login button
+2021-12-31 07:32:38,511 [main] INFO LT_Logger - enter creds
+2021-12-31 07:32:41,733 [main] INFO LT_Logger - clicking on login button
+2021-12-31 07:33:17,958 [main] INFO LT_Logger - enter creds
+2021-12-31 07:33:21,291 [main] INFO LT_Logger - clicking on login button
+2021-12-31 07:35:43,188 [main] INFO LT_Logger - enter creds
+2021-12-31 07:35:46,108 [main] INFO LT_Logger - clicking on login button
+2021-12-31 07:36:48,738 [main] INFO LT_Logger - enter creds
+2021-12-31 07:36:51,804 [main] INFO LT_Logger - clicking on login button
+2021-12-31 07:38:33,042 [main] INFO LT_Logger - enter creds
+2021-12-31 07:38:35,957 [main] INFO LT_Logger - clicking on login button
+2021-12-31 07:39:32,390 [main] INFO LT_Logger - enter creds
+2021-12-31 07:39:35,400 [main] INFO LT_Logger - clicking on login button
+2021-12-31 07:42:23,234 [main] INFO LT_Logger - enter creds
+2021-12-31 07:42:25,961 [main] INFO LT_Logger - clicking on login button
+2021-12-31 07:46:15,561 [main] INFO LT_Logger - enter creds
+2021-12-31 07:46:18,362 [main] INFO LT_Logger - clicking on login button
+2021-12-31 07:50:32,717 [main] INFO LT_Logger - enter creds
+2021-12-31 07:50:35,857 [main] INFO LT_Logger - clicking on login button
+2021-12-31 08:06:26,108 [main] INFO LT_Logger - Home page is launched
+2021-12-31 08:06:32,639 [main] INFO LT_Logger - clicking on addnew btn
+2021-12-31 08:06:32,907 [main] INFO LT_Logger - Click on logout button
+2021-12-31 08:07:52,145 [main] INFO LT_Logger - Home page is launched
+2021-12-31 08:07:57,152 [main] INFO LT_Logger - clicking on addnew btn
+2021-12-31 08:07:57,401 [main] INFO LT_Logger - Click on logout button
+2021-12-31 08:08:34,946 [main] INFO LT_Logger - Home page is launched
+2021-12-31 08:08:39,818 [main] INFO LT_Logger - clicking on addnew btn
+2021-12-31 08:18:37,913 [main] INFO LT_Logger - Enter username
+2021-12-31 08:18:38,092 [main] INFO LT_Logger - Enter password
+2021-12-31 08:18:53,438 [main] INFO LT_Logger - Click on login button
+2021-12-31 08:27:07,780 [main] INFO LT_Logger - Home page is launched
+2021-12-31 08:27:17,889 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 08:27:20,924 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 08:27:21,159 [main] INFO LT_Logger - Enter password 
+2021-12-31 08:27:21,544 [main] INFO LT_Logger - Enter first name
+2021-12-31 08:27:21,694 [main] INFO LT_Logger - Enter last name
+2021-12-31 08:27:21,858 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 08:27:21,943 [main] INFO LT_Logger - Click on logout button
+2021-12-31 08:28:10,144 [main] INFO LT_Logger - Home page is launched
+2021-12-31 08:28:18,159 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 08:28:19,562 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 08:28:19,790 [main] INFO LT_Logger - Enter password 
+2021-12-31 08:28:20,176 [main] INFO LT_Logger - Enter first name
+2021-12-31 08:28:20,328 [main] INFO LT_Logger - Enter last name
+2021-12-31 08:28:20,484 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 08:28:20,561 [main] INFO LT_Logger - Click on logout button
+2021-12-31 08:29:52,834 [main] INFO LT_Logger - Home page is launched
+2021-12-31 08:30:01,302 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 08:30:02,695 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 08:30:02,940 [main] INFO LT_Logger - Enter password 
+2021-12-31 08:30:03,340 [main] INFO LT_Logger - Enter first name
+2021-12-31 08:30:03,495 [main] INFO LT_Logger - Enter last name
+2021-12-31 08:30:03,666 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 08:30:03,838 [main] INFO LT_Logger - Click on save button
+2021-12-31 08:30:05,051 [main] INFO LT_Logger - Click on logout button
+2021-12-31 08:30:37,744 [main] INFO LT_Logger - Home page is launched
+2021-12-31 08:33:17,367 [main] INFO LT_Logger - Home page is launched
+2021-12-31 08:43:25,439 [main] INFO LT_Logger - Home page is launched
+2021-12-31 08:43:35,020 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 08:43:36,430 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 08:43:36,665 [main] INFO LT_Logger - Enter password 
+2021-12-31 08:43:37,031 [main] INFO LT_Logger - Enter first name
+2021-12-31 08:43:37,194 [main] INFO LT_Logger - Enter last name
+2021-12-31 08:43:37,371 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 08:43:37,539 [main] INFO LT_Logger - Click on save button
+2021-12-31 08:43:38,598 [main] INFO LT_Logger - Click on logout button
+2021-12-31 08:43:47,604 [main] INFO LT_Logger - Enter username
+2021-12-31 08:43:47,980 [main] INFO LT_Logger - Enter password
+2021-12-31 08:43:52,548 [main] INFO LT_Logger - Click on login button
+2021-12-31 08:44:05,948 [main] INFO LT_Logger - Click on customer tab
+2021-12-31 08:44:08,131 [main] INFO LT_Logger - Click on sub customer tab
+2021-12-31 08:44:13,768 [main] INFO LT_Logger - Click on search text
+2021-12-31 08:44:15,847 [main] INFO LT_Logger - Enter the email id
+2021-12-31 08:47:17,830 [main] INFO LT_Logger - Home page is launched
+2021-12-31 08:47:26,879 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 08:47:28,511 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 08:47:28,733 [main] INFO LT_Logger - Enter password 
+2021-12-31 08:47:29,048 [main] INFO LT_Logger - Enter first name
+2021-12-31 08:47:29,355 [main] INFO LT_Logger - Enter last name
+2021-12-31 08:47:29,533 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 08:47:29,708 [main] INFO LT_Logger - Click on save button
+2021-12-31 08:47:30,801 [main] INFO LT_Logger - Click on logout button
+2021-12-31 08:47:38,561 [main] INFO LT_Logger - Enter username
+2021-12-31 08:47:38,721 [main] INFO LT_Logger - Enter password
+2021-12-31 08:47:42,826 [main] INFO LT_Logger - Click on login button
+2021-12-31 08:47:56,544 [main] INFO LT_Logger - Click on customer tab
+2021-12-31 08:47:58,666 [main] INFO LT_Logger - Click on sub customer tab
+2021-12-31 08:48:03,765 [main] INFO LT_Logger - Click on search text
+2021-12-31 08:48:05,871 [main] INFO LT_Logger - Enter the email id
+2021-12-31 08:48:08,022 [main] INFO LT_Logger - Click on search button
+2021-12-31 08:51:55,069 [main] INFO LT_Logger - Home page is launched
+2021-12-31 08:52:04,439 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 08:52:06,061 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 08:52:06,396 [main] INFO LT_Logger - Enter password 
+2021-12-31 08:52:06,728 [main] INFO LT_Logger - Enter first name
+2021-12-31 08:52:06,880 [main] INFO LT_Logger - Enter last name
+2021-12-31 08:52:07,043 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 08:52:07,222 [main] INFO LT_Logger - Click on save button
+2021-12-31 08:52:08,272 [main] INFO LT_Logger - Click on logout button
+2021-12-31 08:52:16,417 [main] INFO LT_Logger - Enter username
+2021-12-31 08:52:16,587 [main] INFO LT_Logger - Enter password
+2021-12-31 08:52:20,825 [main] INFO LT_Logger - Click on login button
+2021-12-31 08:52:34,510 [main] INFO LT_Logger - Click on customer tab
+2021-12-31 08:52:36,669 [main] INFO LT_Logger - Click on sub customer tab
+2021-12-31 08:52:42,111 [main] INFO LT_Logger - Click on search text
+2021-12-31 08:52:44,189 [main] INFO LT_Logger - Enter the email id
+2021-12-31 08:52:50,275 [main] INFO LT_Logger - Click on search text
+2021-12-31 08:52:52,345 [main] INFO LT_Logger - Enter the email id
+2021-12-31 08:52:54,488 [main] INFO LT_Logger - Click on search button
+2021-12-31 08:57:01,821 [main] INFO LT_Logger - Home page is launched
+2021-12-31 08:57:10,715 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 08:57:12,814 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 08:57:13,046 [main] INFO LT_Logger - Enter password 
+2021-12-31 08:57:13,218 [main] INFO LT_Logger - Enter first name
+2021-12-31 08:57:13,412 [main] INFO LT_Logger - Enter last name
+2021-12-31 08:57:13,590 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 08:57:13,777 [main] INFO LT_Logger - Click on save button
+2021-12-31 08:57:15,381 [main] INFO LT_Logger - Click on logout button
+2021-12-31 08:57:23,742 [main] INFO LT_Logger - Enter username
+2021-12-31 08:57:23,901 [main] INFO LT_Logger - Enter password
+2021-12-31 08:57:27,817 [main] INFO LT_Logger - Click on login button
+2021-12-31 08:57:41,113 [main] INFO LT_Logger - Click on customer tab
+2021-12-31 08:57:43,281 [main] INFO LT_Logger - Click on sub customer tab
+2021-12-31 08:57:48,692 [main] INFO LT_Logger - Click on search text
+2021-12-31 08:57:50,779 [main] INFO LT_Logger - Enter the email id
+2021-12-31 08:57:56,897 [main] INFO LT_Logger - Click on search text
+2021-12-31 08:57:58,963 [main] INFO LT_Logger - Enter the email id
+2021-12-31 08:58:01,127 [main] INFO LT_Logger - Click on search button
+2021-12-31 09:01:42,713 [main] INFO LT_Logger - Home page is launched
+2021-12-31 09:01:51,983 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 09:01:53,761 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 09:01:53,985 [main] INFO LT_Logger - Enter password 
+2021-12-31 09:01:54,358 [main] INFO LT_Logger - Enter first name
+2021-12-31 09:01:54,515 [main] INFO LT_Logger - Enter last name
+2021-12-31 09:01:54,685 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 09:01:54,873 [main] INFO LT_Logger - Click on save button
+2021-12-31 09:01:55,968 [main] INFO LT_Logger - Click on logout button
+2021-12-31 09:02:04,448 [main] INFO LT_Logger - Enter username
+2021-12-31 09:02:04,606 [main] INFO LT_Logger - Enter password
+2021-12-31 09:02:08,433 [main] INFO LT_Logger - Click on login button
+2021-12-31 09:02:21,378 [main] INFO LT_Logger - Click on customer tab
+2021-12-31 09:02:23,570 [main] INFO LT_Logger - Click on sub customer tab
+2021-12-31 09:02:28,794 [main] INFO LT_Logger - Click on search text
+2021-12-31 09:02:30,876 [main] INFO LT_Logger - Enter the email id
+2021-12-31 09:02:36,955 [main] INFO LT_Logger - Click on search text
+2021-12-31 09:02:39,014 [main] INFO LT_Logger - Enter the email id
+2021-12-31 09:02:41,156 [main] INFO LT_Logger - Click on search button
+2021-12-31 09:15:43,489 [TestNG-tests-1] INFO LT_Logger - Home page is launched
+2021-12-31 09:16:08,838 [TestNG-tests-1] INFO LT_Logger - Click on Add New button
+2021-12-31 09:16:12,834 [TestNG-tests-1] INFO LT_Logger - Enter Email Id
+2021-12-31 09:16:13,028 [TestNG-tests-1] INFO LT_Logger - Enter password 
+2021-12-31 09:16:13,194 [TestNG-tests-1] INFO LT_Logger - Enter first name
+2021-12-31 09:16:13,341 [TestNG-tests-1] INFO LT_Logger - Enter last name
+2021-12-31 09:16:13,488 [TestNG-tests-1] INFO LT_Logger - Enter comapny name
+2021-12-31 09:16:13,638 [TestNG-tests-1] INFO LT_Logger - Click on save button
+2021-12-31 09:16:15,873 [TestNG-tests-1] INFO LT_Logger - Click on customer tab
+2021-12-31 09:16:16,186 [TestNG-tests-1] INFO LT_Logger - Enter username
+2021-12-31 09:16:16,327 [TestNG-tests-1] INFO LT_Logger - Enter password
+2021-12-31 09:16:20,070 [TestNG-tests-1] INFO LT_Logger - Click on login button
+2021-12-31 09:16:25,946 [TestNG-tests-1] INFO LT_Logger - Click on sub customer tab
+2021-12-31 09:16:27,204 [TestNG-tests-1] INFO LT_Logger - Click on logout button
+2021-12-31 09:16:35,124 [TestNG-tests-1] INFO LT_Logger - Click on search text
+2021-12-31 09:16:37,210 [TestNG-tests-1] INFO LT_Logger - Enter the email id
+2021-12-31 09:16:43,290 [TestNG-tests-1] INFO LT_Logger - Click on search text
+2021-12-31 09:16:45,359 [TestNG-tests-1] INFO LT_Logger - Enter the email id
+2021-12-31 09:16:47,491 [TestNG-tests-1] INFO LT_Logger - Click on search button
+2021-12-31 09:20:50,063 [TestNG-tests-2] INFO LT_Logger - Home page is launched
+2021-12-31 09:20:51,003 [TestNG-tests-1] INFO LT_Logger - Enter username
+2021-12-31 09:20:51,177 [TestNG-tests-1] INFO LT_Logger - Enter password
+2021-12-31 09:20:56,068 [TestNG-tests-1] INFO LT_Logger - Click on login button
+2021-12-31 09:20:57,784 [TestNG-tests-3] INFO LT_Logger - Click on customer tab
+2021-12-31 09:21:00,158 [TestNG-tests-3] INFO LT_Logger - Click on sub customer tab
+2021-12-31 09:21:00,706 [TestNG-tests-2] INFO LT_Logger - Click on Add New button
+2021-12-31 09:21:04,532 [TestNG-tests-2] INFO LT_Logger - Enter Email Id
+2021-12-31 09:21:04,775 [TestNG-tests-2] INFO LT_Logger - Enter password 
+2021-12-31 09:21:04,944 [TestNG-tests-2] INFO LT_Logger - Enter first name
+2021-12-31 09:21:05,112 [TestNG-tests-2] INFO LT_Logger - Enter last name
+2021-12-31 09:21:05,302 [TestNG-tests-2] INFO LT_Logger - Enter comapny name
+2021-12-31 09:21:05,483 [TestNG-tests-2] INFO LT_Logger - Click on save button
+2021-12-31 09:21:05,496 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 09:21:06,464 [TestNG-tests-2] INFO LT_Logger - Click on logout button
+2021-12-31 09:21:07,576 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 09:21:13,652 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 09:21:15,729 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 09:21:17,855 [TestNG-tests-3] INFO LT_Logger - Click on search button
+2021-12-31 09:22:37,547 [TestNG-tests-1] INFO LT_Logger - Enter username
+2021-12-31 09:22:37,627 [TestNG-tests-2] INFO LT_Logger - Home page is launched
+2021-12-31 09:22:37,721 [TestNG-tests-1] INFO LT_Logger - Enter password
+2021-12-31 09:22:42,298 [TestNG-tests-1] INFO LT_Logger - Click on login button
+2021-12-31 09:22:43,159 [TestNG-tests-3] INFO LT_Logger - Click on customer tab
+2021-12-31 09:22:44,831 [TestNG-tests-2] INFO LT_Logger - Click on Add New button
+2021-12-31 09:22:45,274 [TestNG-tests-3] INFO LT_Logger - Click on sub customer tab
+2021-12-31 09:22:46,228 [TestNG-tests-2] INFO LT_Logger - Enter Email Id
+2021-12-31 09:22:46,478 [TestNG-tests-2] INFO LT_Logger - Enter password 
+2021-12-31 09:22:46,658 [TestNG-tests-2] INFO LT_Logger - Enter first name
+2021-12-31 09:22:46,809 [TestNG-tests-2] INFO LT_Logger - Enter last name
+2021-12-31 09:22:46,962 [TestNG-tests-2] INFO LT_Logger - Enter comapny name
+2021-12-31 09:22:47,114 [TestNG-tests-2] INFO LT_Logger - Click on save button
+2021-12-31 09:22:48,165 [TestNG-tests-2] INFO LT_Logger - Click on logout button
+2021-12-31 09:22:50,516 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 09:22:52,616 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 09:22:58,693 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 09:23:00,750 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 09:23:02,863 [TestNG-tests-3] INFO LT_Logger - Click on search button
+2021-12-31 09:39:34,463 [TestNG-tests-2] INFO LT_Logger - Home page is launched
+2021-12-31 09:39:34,776 [TestNG-tests-1] INFO LT_Logger - Enter username
+2021-12-31 09:39:34,937 [TestNG-tests-1] INFO LT_Logger - Enter password
+2021-12-31 09:39:39,638 [TestNG-tests-1] INFO LT_Logger - Click on login button
+2021-12-31 09:39:40,461 [TestNG-tests-3] INFO LT_Logger - Click on customer tab
+2021-12-31 09:39:42,300 [TestNG-tests-2] INFO LT_Logger - Click on Add New button
+2021-12-31 09:39:42,599 [TestNG-tests-3] INFO LT_Logger - Click on sub customer tab
+2021-12-31 09:39:43,718 [TestNG-tests-2] INFO LT_Logger - Enter Email Id
+2021-12-31 09:39:43,944 [TestNG-tests-2] INFO LT_Logger - Enter password 
+2021-12-31 09:39:44,099 [TestNG-tests-2] INFO LT_Logger - Enter first name
+2021-12-31 09:39:44,230 [TestNG-tests-2] INFO LT_Logger - Enter last name
+2021-12-31 09:39:44,382 [TestNG-tests-2] INFO LT_Logger - Enter comapny name
+2021-12-31 09:39:44,550 [TestNG-tests-2] INFO LT_Logger - Click on save button
+2021-12-31 09:39:45,579 [TestNG-tests-2] INFO LT_Logger - Click on logout button
+2021-12-31 09:39:47,762 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 09:39:49,841 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 09:39:55,920 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 09:39:57,976 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 09:40:00,076 [TestNG-tests-3] INFO LT_Logger - Click on search button
+2021-12-31 09:49:57,930 [TestNG-tests-2] INFO LT_Logger - Home page is launched
+2021-12-31 09:49:58,511 [TestNG-tests-1] INFO LT_Logger - Enter username
+2021-12-31 09:49:58,676 [TestNG-tests-1] INFO LT_Logger - Enter password
+2021-12-31 09:50:02,976 [TestNG-tests-1] INFO LT_Logger - Click on login button
+2021-12-31 09:50:03,826 [TestNG-tests-3] INFO LT_Logger - Click on customer tab
+2021-12-31 09:50:05,965 [TestNG-tests-3] INFO LT_Logger - Click on sub customer tab
+2021-12-31 09:50:06,301 [TestNG-tests-2] INFO LT_Logger - Click on Add New button
+2021-12-31 09:50:07,649 [TestNG-tests-2] INFO LT_Logger - Enter Email Id
+2021-12-31 09:50:07,845 [TestNG-tests-2] INFO LT_Logger - Enter password 
+2021-12-31 09:50:08,001 [TestNG-tests-2] INFO LT_Logger - Enter first name
+2021-12-31 09:50:08,146 [TestNG-tests-2] INFO LT_Logger - Enter last name
+2021-12-31 09:50:08,291 [TestNG-tests-2] INFO LT_Logger - Enter comapny name
+2021-12-31 09:50:08,444 [TestNG-tests-2] INFO LT_Logger - Click on save button
+2021-12-31 09:50:09,216 [TestNG-tests-2] INFO LT_Logger - Click on logout button
+2021-12-31 09:50:11,121 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 09:50:13,221 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 09:50:19,300 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 09:50:21,361 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 09:50:23,475 [TestNG-tests-3] INFO LT_Logger - Click on search button
+2021-12-31 09:51:07,462 [main] INFO LT_Logger - Home page is launched
+2021-12-31 09:53:08,402 [main] INFO LT_Logger - Home page is launched
+2021-12-31 09:56:15,237 [main] INFO LT_Logger - Home page is launched
+2021-12-31 10:07:40,303 [main] INFO LT_Logger - Home page is launched
+2021-12-31 10:10:20,391 [main] INFO LT_Logger - Home page is launched
+2021-12-31 10:10:25,502 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 10:10:27,867 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 10:10:28,055 [main] INFO LT_Logger - Enter password 
+2021-12-31 10:10:28,206 [main] INFO LT_Logger - Enter first name
+2021-12-31 10:10:28,347 [main] INFO LT_Logger - Enter last name
+2021-12-31 10:10:28,473 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 10:10:28,602 [main] INFO LT_Logger - Click on save button
+2021-12-31 10:13:36,178 [main] INFO LT_Logger - Home page is launched
+2021-12-31 10:13:41,501 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 10:13:43,781 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 10:13:43,996 [main] INFO LT_Logger - Enter password 
+2021-12-31 10:13:44,164 [main] INFO LT_Logger - Enter first name
+2021-12-31 10:13:44,316 [main] INFO LT_Logger - Enter last name
+2021-12-31 10:13:44,446 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 10:13:44,591 [main] INFO LT_Logger - Click on save button
+2021-12-31 10:14:59,470 [main] INFO LT_Logger - Home page is launched
+2021-12-31 10:15:04,842 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 10:15:07,097 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 10:15:07,302 [main] INFO LT_Logger - Enter password 
+2021-12-31 10:15:07,463 [main] INFO LT_Logger - Enter first name
+2021-12-31 10:15:07,611 [main] INFO LT_Logger - Enter last name
+2021-12-31 10:15:07,733 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 10:15:07,860 [main] INFO LT_Logger - Click on save button
+2021-12-31 10:15:44,972 [main] INFO LT_Logger - Home page is launched
+2021-12-31 10:15:50,361 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 10:15:52,558 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 10:15:52,777 [main] INFO LT_Logger - Enter password 
+2021-12-31 10:15:52,956 [main] INFO LT_Logger - Enter first name
+2021-12-31 10:15:53,140 [main] INFO LT_Logger - Enter last name
+2021-12-31 10:15:53,285 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 10:15:53,426 [main] INFO LT_Logger - Click on save button
+2021-12-31 10:16:52,487 [main] INFO LT_Logger - Home page is launched
+2021-12-31 10:16:57,559 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 10:16:59,993 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 10:17:00,269 [main] INFO LT_Logger - Enter password 
+2021-12-31 10:17:00,430 [main] INFO LT_Logger - Enter first name
+2021-12-31 10:17:00,576 [main] INFO LT_Logger - Enter last name
+2021-12-31 10:17:00,707 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 10:17:00,842 [main] INFO LT_Logger - Click on save button
+2021-12-31 10:18:06,561 [main] INFO LT_Logger - Home page is launched
+2021-12-31 10:18:13,006 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 10:18:19,775 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 10:18:19,996 [main] INFO LT_Logger - Enter password 
+2021-12-31 10:18:20,167 [main] INFO LT_Logger - Enter first name
+2021-12-31 10:18:20,332 [main] INFO LT_Logger - Enter last name
+2021-12-31 10:18:20,463 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 10:18:20,606 [main] INFO LT_Logger - Click on save button
+2021-12-31 10:19:00,641 [main] INFO LT_Logger - Home page is launched
+2021-12-31 10:19:06,561 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 10:19:08,705 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 10:19:08,932 [main] INFO LT_Logger - Enter password 
+2021-12-31 10:19:09,117 [main] INFO LT_Logger - Enter first name
+2021-12-31 10:19:09,282 [main] INFO LT_Logger - Enter last name
+2021-12-31 10:19:09,417 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 10:19:09,568 [main] INFO LT_Logger - Click on save button
+2021-12-31 10:22:26,740 [main] INFO LT_Logger - Home page is launched
+2021-12-31 10:22:32,559 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 10:22:35,202 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 10:22:35,446 [main] INFO LT_Logger - Enter password 
+2021-12-31 10:22:35,639 [main] INFO LT_Logger - Enter first name
+2021-12-31 10:22:35,793 [main] INFO LT_Logger - Enter last name
+2021-12-31 10:22:35,952 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 10:22:36,140 [main] INFO LT_Logger - Click on save button
+2021-12-31 10:23:34,205 [main] INFO LT_Logger - Home page is launched
+2021-12-31 10:23:40,549 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 10:23:43,103 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 10:23:43,318 [main] INFO LT_Logger - Enter password 
+2021-12-31 10:23:43,490 [main] INFO LT_Logger - Enter first name
+2021-12-31 10:23:43,634 [main] INFO LT_Logger - Enter last name
+2021-12-31 10:23:43,762 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 10:23:43,915 [main] INFO LT_Logger - Click on save button
+2021-12-31 10:23:49,004 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 10:23:51,470 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 10:23:51,892 [main] INFO LT_Logger - Enter password 
+2021-12-31 10:23:52,037 [main] INFO LT_Logger - Enter first name
+2021-12-31 10:23:52,201 [main] INFO LT_Logger - Enter last name
+2021-12-31 10:23:52,334 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 10:23:52,458 [main] INFO LT_Logger - Click on save button
+2021-12-31 10:23:57,515 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 10:23:59,278 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 10:23:59,741 [main] INFO LT_Logger - Enter password 
+2021-12-31 10:23:59,894 [main] INFO LT_Logger - Enter first name
+2021-12-31 10:24:00,042 [main] INFO LT_Logger - Enter last name
+2021-12-31 10:24:00,193 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 10:24:00,333 [main] INFO LT_Logger - Click on save button
+2021-12-31 10:24:05,134 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 10:24:06,848 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 10:24:07,261 [main] INFO LT_Logger - Enter password 
+2021-12-31 10:24:07,411 [main] INFO LT_Logger - Enter first name
+2021-12-31 10:24:07,554 [main] INFO LT_Logger - Enter last name
+2021-12-31 10:24:07,698 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 10:24:07,844 [main] INFO LT_Logger - Click on save button
+2021-12-31 10:26:01,202 [TestNG-tests-2] INFO LT_Logger - Home page is launched
+2021-12-31 10:26:01,554 [TestNG-tests-4] INFO LT_Logger - Home page is launched
+2021-12-31 10:26:01,983 [TestNG-tests-1] INFO LT_Logger - Enter username
+2021-12-31 10:26:02,180 [TestNG-tests-1] INFO LT_Logger - Enter password
+2021-12-31 10:26:06,533 [TestNG-tests-1] INFO LT_Logger - Click on login button
+2021-12-31 10:26:08,139 [TestNG-tests-4] INFO LT_Logger - Click on Add New button
+2021-12-31 10:26:08,794 [TestNG-tests-3] INFO LT_Logger - Click on customer tab
+2021-12-31 10:26:10,533 [TestNG-tests-2] INFO LT_Logger - Click on Add New button
+2021-12-31 10:26:10,941 [TestNG-tests-3] INFO LT_Logger - Click on sub customer tab
+2021-12-31 10:26:11,413 [TestNG-tests-4] INFO LT_Logger - Enter Email Id
+2021-12-31 10:26:11,770 [TestNG-tests-4] INFO LT_Logger - Enter password 
+2021-12-31 10:26:11,975 [TestNG-tests-2] INFO LT_Logger - Enter Email Id
+2021-12-31 10:26:12,061 [TestNG-tests-4] INFO LT_Logger - Enter first name
+2021-12-31 10:26:12,328 [TestNG-tests-2] INFO LT_Logger - Enter password 
+2021-12-31 10:26:12,350 [TestNG-tests-4] INFO LT_Logger - Enter last name
+2021-12-31 10:26:12,565 [TestNG-tests-2] INFO LT_Logger - Enter first name
+2021-12-31 10:26:12,604 [TestNG-tests-4] INFO LT_Logger - Enter comapny name
+2021-12-31 10:26:12,751 [TestNG-tests-2] INFO LT_Logger - Enter last name
+2021-12-31 10:26:12,782 [TestNG-tests-4] INFO LT_Logger - Click on save button
+2021-12-31 10:26:12,943 [TestNG-tests-2] INFO LT_Logger - Enter comapny name
+2021-12-31 10:26:13,106 [TestNG-tests-2] INFO LT_Logger - Click on save button
+2021-12-31 10:26:13,991 [TestNG-tests-2] INFO LT_Logger - Click on logout button
+2021-12-31 10:26:16,383 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 10:26:17,762 [TestNG-tests-4] INFO LT_Logger - Click on Add New button
+2021-12-31 10:26:18,550 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 10:26:19,451 [TestNG-tests-4] INFO LT_Logger - Enter Email Id
+2021-12-31 10:26:19,884 [TestNG-tests-4] INFO LT_Logger - Enter password 
+2021-12-31 10:26:20,038 [TestNG-tests-4] INFO LT_Logger - Enter first name
+2021-12-31 10:26:20,193 [TestNG-tests-4] INFO LT_Logger - Enter last name
+2021-12-31 10:26:20,325 [TestNG-tests-4] INFO LT_Logger - Enter comapny name
+2021-12-31 10:26:20,498 [TestNG-tests-4] INFO LT_Logger - Click on save button
+2021-12-31 10:26:24,676 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 10:26:25,176 [TestNG-tests-4] INFO LT_Logger - Click on Add New button
+2021-12-31 10:26:26,760 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 10:26:27,138 [TestNG-tests-4] INFO LT_Logger - Enter Email Id
+2021-12-31 10:26:27,605 [TestNG-tests-4] INFO LT_Logger - Enter password 
+2021-12-31 10:26:27,787 [TestNG-tests-4] INFO LT_Logger - Enter first name
+2021-12-31 10:26:27,960 [TestNG-tests-4] INFO LT_Logger - Enter last name
+2021-12-31 10:26:28,121 [TestNG-tests-4] INFO LT_Logger - Enter comapny name
+2021-12-31 10:26:28,325 [TestNG-tests-4] INFO LT_Logger - Click on save button
+2021-12-31 10:26:28,947 [TestNG-tests-3] INFO LT_Logger - Click on search button
+2021-12-31 10:26:33,344 [TestNG-tests-4] INFO LT_Logger - Click on Add New button
+2021-12-31 10:26:35,162 [TestNG-tests-4] INFO LT_Logger - Enter Email Id
+2021-12-31 10:26:35,656 [TestNG-tests-4] INFO LT_Logger - Enter password 
+2021-12-31 10:26:35,819 [TestNG-tests-4] INFO LT_Logger - Enter first name
+2021-12-31 10:26:35,959 [TestNG-tests-4] INFO LT_Logger - Enter last name
+2021-12-31 10:26:36,089 [TestNG-tests-4] INFO LT_Logger - Enter comapny name
+2021-12-31 10:26:36,360 [TestNG-tests-4] INFO LT_Logger - Click on save button
+2021-12-31 10:30:44,441 [TestNG-tests-2] INFO LT_Logger - Home page is launched
+2021-12-31 10:30:44,514 [TestNG-tests-4] INFO LT_Logger - Home page is launched
+2021-12-31 10:30:45,115 [TestNG-tests-1] INFO LT_Logger - Enter username
+2021-12-31 10:30:45,313 [TestNG-tests-1] INFO LT_Logger - Enter password
+2021-12-31 10:30:50,996 [TestNG-tests-1] INFO LT_Logger - Click on login button
+2021-12-31 10:30:51,323 [TestNG-tests-4] INFO LT_Logger - Click on Add New button
+2021-12-31 10:30:52,144 [TestNG-tests-3] INFO LT_Logger - Click on customer tab
+2021-12-31 10:30:53,757 [TestNG-tests-2] INFO LT_Logger - Click on Add New button
+2021-12-31 10:30:54,074 [TestNG-tests-4] INFO LT_Logger - Enter Email Id
+2021-12-31 10:30:54,385 [TestNG-tests-4] INFO LT_Logger - Enter password 
+2021-12-31 10:30:54,440 [TestNG-tests-3] INFO LT_Logger - Click on sub customer tab
+2021-12-31 10:30:54,580 [TestNG-tests-4] INFO LT_Logger - Enter first name
+2021-12-31 10:30:54,769 [TestNG-tests-4] INFO LT_Logger - Enter last name
+2021-12-31 10:30:54,999 [TestNG-tests-4] INFO LT_Logger - Enter comapny name
+2021-12-31 10:30:55,480 [TestNG-tests-4] INFO LT_Logger - Click on save button
+2021-12-31 10:30:55,504 [TestNG-tests-2] INFO LT_Logger - Enter Email Id
+2021-12-31 10:30:56,016 [TestNG-tests-2] INFO LT_Logger - Enter password 
+2021-12-31 10:30:56,372 [TestNG-tests-2] INFO LT_Logger - Enter first name
+2021-12-31 10:30:56,581 [TestNG-tests-2] INFO LT_Logger - Enter last name
+2021-12-31 10:30:56,911 [TestNG-tests-2] INFO LT_Logger - Enter comapny name
+2021-12-31 10:30:57,093 [TestNG-tests-2] INFO LT_Logger - Click on save button
+2021-12-31 10:30:58,084 [TestNG-tests-2] INFO LT_Logger - Click on logout button
+2021-12-31 10:30:59,865 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 10:31:00,776 [TestNG-tests-4] INFO LT_Logger - Click on Add New button
+2021-12-31 10:31:01,966 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 10:31:02,459 [TestNG-tests-4] INFO LT_Logger - Enter Email Id
+2021-12-31 10:31:02,903 [TestNG-tests-4] INFO LT_Logger - Enter password 
+2021-12-31 10:31:03,036 [TestNG-tests-4] INFO LT_Logger - Enter first name
+2021-12-31 10:31:03,168 [TestNG-tests-4] INFO LT_Logger - Enter last name
+2021-12-31 10:31:03,300 [TestNG-tests-4] INFO LT_Logger - Enter comapny name
+2021-12-31 10:31:03,450 [TestNG-tests-4] INFO LT_Logger - Click on save button
+2021-12-31 10:31:08,036 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 10:31:08,051 [TestNG-tests-4] INFO LT_Logger - Click on Add New button
+2021-12-31 10:31:09,860 [TestNG-tests-4] INFO LT_Logger - Enter Email Id
+2021-12-31 10:31:10,078 [TestNG-tests-4] INFO LT_Logger - Enter password 
+2021-12-31 10:31:10,115 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 10:31:10,232 [TestNG-tests-4] INFO LT_Logger - Enter first name
+2021-12-31 10:31:10,380 [TestNG-tests-4] INFO LT_Logger - Enter last name
+2021-12-31 10:31:10,513 [TestNG-tests-4] INFO LT_Logger - Enter comapny name
+2021-12-31 10:31:10,657 [TestNG-tests-4] INFO LT_Logger - Click on save button
+2021-12-31 10:31:12,254 [TestNG-tests-3] INFO LT_Logger - Click on search button
+2021-12-31 10:31:15,558 [TestNG-tests-4] INFO LT_Logger - Click on Add New button
+2021-12-31 10:31:17,350 [TestNG-tests-4] INFO LT_Logger - Enter Email Id
+2021-12-31 10:31:17,765 [TestNG-tests-4] INFO LT_Logger - Enter password 
+2021-12-31 10:31:17,910 [TestNG-tests-4] INFO LT_Logger - Enter first name
+2021-12-31 10:31:18,041 [TestNG-tests-4] INFO LT_Logger - Enter last name
+2021-12-31 10:31:18,160 [TestNG-tests-4] INFO LT_Logger - Enter comapny name
+2021-12-31 10:31:18,301 [TestNG-tests-4] INFO LT_Logger - Click on save button
+2021-12-31 10:36:04,164 [TestNG-tests-2] INFO LT_Logger - Home page is launched
+2021-12-31 10:36:04,637 [TestNG-tests-1] INFO LT_Logger - Enter username
+2021-12-31 10:36:04,814 [TestNG-tests-1] INFO LT_Logger - Enter password
+2021-12-31 10:36:09,294 [TestNG-tests-1] INFO LT_Logger - Click on login button
+2021-12-31 10:36:10,238 [TestNG-tests-3] INFO LT_Logger - Click on customer tab
+2021-12-31 10:36:12,350 [TestNG-tests-3] INFO LT_Logger - Click on sub customer tab
+2021-12-31 10:36:12,978 [TestNG-tests-2] INFO LT_Logger - Click on Add New button
+2021-12-31 10:36:14,122 [TestNG-tests-2] INFO LT_Logger - Enter Email Id
+2021-12-31 10:36:14,325 [TestNG-tests-2] INFO LT_Logger - Enter password 
+2021-12-31 10:36:14,477 [TestNG-tests-2] INFO LT_Logger - Enter first name
+2021-12-31 10:36:14,651 [TestNG-tests-2] INFO LT_Logger - Enter last name
+2021-12-31 10:36:14,807 [TestNG-tests-2] INFO LT_Logger - Enter comapny name
+2021-12-31 10:36:14,954 [TestNG-tests-2] INFO LT_Logger - Click on save button
+2021-12-31 10:36:15,984 [TestNG-tests-2] INFO LT_Logger - Click on logout button
+2021-12-31 10:36:17,492 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 10:36:19,601 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 10:36:25,679 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 10:36:27,741 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 10:36:29,872 [TestNG-tests-3] INFO LT_Logger - Click on search button
+2021-12-31 10:39:55,013 [TestNG-tests-2] INFO LT_Logger - Home page is launched
+2021-12-31 10:39:55,511 [TestNG-tests-1] INFO LT_Logger - Enter username
+2021-12-31 10:39:55,657 [TestNG-tests-1] INFO LT_Logger - Enter password
+2021-12-31 10:39:59,798 [TestNG-tests-1] INFO LT_Logger - Click on login button
+2021-12-31 10:40:01,006 [TestNG-tests-3] INFO LT_Logger - Click on customer tab
+2021-12-31 10:40:02,954 [TestNG-tests-2] INFO LT_Logger - Click on Add New button
+2021-12-31 10:40:03,115 [TestNG-tests-3] INFO LT_Logger - Click on sub customer tab
+2021-12-31 10:40:04,167 [TestNG-tests-2] INFO LT_Logger - Enter Email Id
+2021-12-31 10:40:04,444 [TestNG-tests-2] INFO LT_Logger - Enter password 
+2021-12-31 10:40:04,597 [TestNG-tests-2] INFO LT_Logger - Enter first name
+2021-12-31 10:40:04,757 [TestNG-tests-2] INFO LT_Logger - Enter last name
+2021-12-31 10:40:04,918 [TestNG-tests-2] INFO LT_Logger - Enter comapny name
+2021-12-31 10:40:05,103 [TestNG-tests-2] INFO LT_Logger - Click on save button
+2021-12-31 10:40:05,902 [TestNG-tests-2] INFO LT_Logger - Click on logout button
+2021-12-31 10:40:08,304 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 10:40:10,401 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 10:40:16,473 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 10:40:18,537 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 10:40:20,666 [TestNG-tests-3] INFO LT_Logger - Click on search button
+2021-12-31 10:55:09,936 [TestNG-tests-2] INFO LT_Logger - Home page is launched
+2021-12-31 10:55:10,452 [TestNG-tests-1] INFO LT_Logger - Enter username
+2021-12-31 10:55:10,631 [TestNG-tests-1] INFO LT_Logger - Enter password
+2021-12-31 10:55:15,076 [TestNG-tests-1] INFO LT_Logger - Click on login button
+2021-12-31 10:55:16,128 [TestNG-tests-3] INFO LT_Logger - Click on customer tab
+2021-12-31 10:55:18,102 [TestNG-tests-2] INFO LT_Logger - Click on Add New button
+2021-12-31 10:55:18,259 [TestNG-tests-3] INFO LT_Logger - Click on sub customer tab
+2021-12-31 10:55:19,839 [TestNG-tests-2] INFO LT_Logger - Enter Email Id
+2021-12-31 10:55:20,164 [TestNG-tests-2] INFO LT_Logger - Enter password 
+2021-12-31 10:55:20,364 [TestNG-tests-2] INFO LT_Logger - Enter first name
+2021-12-31 10:55:20,536 [TestNG-tests-2] INFO LT_Logger - Enter last name
+2021-12-31 10:55:20,704 [TestNG-tests-2] INFO LT_Logger - Enter comapny name
+2021-12-31 10:55:20,871 [TestNG-tests-2] INFO LT_Logger - Click on save button
+2021-12-31 10:55:21,615 [TestNG-tests-2] INFO LT_Logger - Click on logout button
+2021-12-31 10:55:23,981 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 10:55:26,118 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 10:55:32,195 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 10:55:34,259 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 10:55:36,377 [TestNG-tests-3] INFO LT_Logger - Click on search button
+2021-12-31 10:58:06,664 [TestNG-tests-2] INFO LT_Logger - Home page is launched
+2021-12-31 10:58:06,924 [TestNG-tests-1] INFO LT_Logger - Enter username
+2021-12-31 10:58:07,100 [TestNG-tests-1] INFO LT_Logger - Enter password
+2021-12-31 10:58:11,271 [TestNG-tests-1] INFO LT_Logger - Click on login button
+2021-12-31 10:58:12,322 [TestNG-tests-3] INFO LT_Logger - Click on customer tab
+2021-12-31 10:58:14,444 [TestNG-tests-3] INFO LT_Logger - Click on sub customer tab
+2021-12-31 10:58:14,526 [TestNG-tests-2] INFO LT_Logger - Click on Add New button
+2021-12-31 10:58:15,797 [TestNG-tests-2] INFO LT_Logger - Enter Email Id
+2021-12-31 10:58:16,066 [TestNG-tests-2] INFO LT_Logger - Enter password 
+2021-12-31 10:58:16,246 [TestNG-tests-2] INFO LT_Logger - Enter first name
+2021-12-31 10:58:16,426 [TestNG-tests-2] INFO LT_Logger - Enter last name
+2021-12-31 10:58:16,613 [TestNG-tests-2] INFO LT_Logger - Enter comapny name
+2021-12-31 10:58:16,784 [TestNG-tests-2] INFO LT_Logger - Click on save button
+2021-12-31 10:58:17,769 [TestNG-tests-2] INFO LT_Logger - Click on logout button
+2021-12-31 10:58:19,786 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 10:58:21,891 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 10:58:27,964 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 10:58:30,064 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 10:58:32,182 [TestNG-tests-3] INFO LT_Logger - Click on search button
+2021-12-31 11:06:45,244 [main] INFO LT_Logger - Home page is launched
+2021-12-31 11:06:50,537 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 11:07:24,471 [main] INFO LT_Logger - Home page is launched
+2021-12-31 11:07:29,394 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 11:07:31,853 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 11:07:32,062 [main] INFO LT_Logger - Enter password 
+2021-12-31 11:07:32,222 [main] INFO LT_Logger - Enter first name
+2021-12-31 11:07:32,366 [main] INFO LT_Logger - Enter last name
+2021-12-31 11:07:32,496 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 11:07:32,649 [main] INFO LT_Logger - Click on save button
+2021-12-31 11:09:26,851 [main] INFO LT_Logger - Home page is launched
+2021-12-31 11:09:32,402 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 11:09:34,650 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 11:09:34,857 [main] INFO LT_Logger - Enter password 
+2021-12-31 11:09:35,009 [main] INFO LT_Logger - Enter first name
+2021-12-31 11:09:35,150 [main] INFO LT_Logger - Enter last name
+2021-12-31 11:09:35,277 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 11:09:35,421 [main] INFO LT_Logger - Click on save button
+2021-12-31 11:09:40,666 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 11:09:42,531 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 11:09:42,939 [main] INFO LT_Logger - Enter password 
+2021-12-31 11:09:43,105 [main] INFO LT_Logger - Enter first name
+2021-12-31 11:09:43,260 [main] INFO LT_Logger - Enter last name
+2021-12-31 11:09:43,413 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 11:09:43,610 [main] INFO LT_Logger - Click on save button
+2021-12-31 11:09:48,661 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 11:09:50,165 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 11:09:50,577 [main] INFO LT_Logger - Enter password 
+2021-12-31 11:09:50,720 [main] INFO LT_Logger - Enter first name
+2021-12-31 11:09:50,853 [main] INFO LT_Logger - Enter last name
+2021-12-31 11:09:51,007 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 11:09:51,141 [main] INFO LT_Logger - Click on save button
+2021-12-31 11:09:55,908 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 11:09:57,765 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 11:09:58,228 [main] INFO LT_Logger - Enter password 
+2021-12-31 11:09:58,403 [main] INFO LT_Logger - Enter first name
+2021-12-31 11:09:58,560 [main] INFO LT_Logger - Enter last name
+2021-12-31 11:09:58,707 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 11:09:58,847 [main] INFO LT_Logger - Click on save button
+2021-12-31 11:11:08,378 [main] INFO LT_Logger - Home page is launched
+2021-12-31 11:11:13,460 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 11:11:15,529 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 11:11:15,744 [main] INFO LT_Logger - Enter password 
+2021-12-31 11:11:15,904 [main] INFO LT_Logger - Enter first name
+2021-12-31 11:11:16,050 [main] INFO LT_Logger - Enter last name
+2021-12-31 11:11:16,181 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 11:11:16,333 [main] INFO LT_Logger - Click on save button
+2021-12-31 11:11:21,433 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 11:11:23,075 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 11:11:23,488 [main] INFO LT_Logger - Enter password 
+2021-12-31 11:11:23,662 [main] INFO LT_Logger - Enter first name
+2021-12-31 11:11:23,796 [main] INFO LT_Logger - Enter last name
+2021-12-31 11:11:23,916 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 11:11:24,053 [main] INFO LT_Logger - Click on save button
+2021-12-31 11:11:29,107 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 11:11:30,656 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 11:11:31,064 [main] INFO LT_Logger - Enter password 
+2021-12-31 11:11:31,208 [main] INFO LT_Logger - Enter first name
+2021-12-31 11:11:31,340 [main] INFO LT_Logger - Enter last name
+2021-12-31 11:11:31,501 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 11:11:31,634 [main] INFO LT_Logger - Click on save button
+2021-12-31 11:11:36,422 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 11:11:38,238 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 11:11:38,748 [main] INFO LT_Logger - Enter password 
+2021-12-31 11:11:38,883 [main] INFO LT_Logger - Enter first name
+2021-12-31 11:11:39,011 [main] INFO LT_Logger - Enter last name
+2021-12-31 11:11:39,141 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 11:11:39,267 [main] INFO LT_Logger - Click on save button
+2021-12-31 13:13:16,186 [TestNG-tests-2] INFO LT_Logger - Home page is launched
+2021-12-31 13:13:16,576 [TestNG-tests-1] INFO LT_Logger - Enter username
+2021-12-31 13:13:16,816 [TestNG-tests-1] INFO LT_Logger - Enter password
+2021-12-31 13:13:22,348 [TestNG-tests-1] INFO LT_Logger - Click on login button
+2021-12-31 13:13:23,476 [TestNG-tests-3] INFO LT_Logger - Click on customer tab
+2021-12-31 13:13:25,957 [TestNG-tests-3] INFO LT_Logger - Click on sub customer tab
+2021-12-31 13:13:27,549 [TestNG-tests-2] INFO LT_Logger - Click on Add New button
+2021-12-31 13:13:29,295 [TestNG-tests-2] INFO LT_Logger - Enter Email Id
+2021-12-31 13:13:29,568 [TestNG-tests-2] INFO LT_Logger - Enter password 
+2021-12-31 13:13:29,978 [TestNG-tests-2] INFO LT_Logger - Enter first name
+2021-12-31 13:13:30,125 [TestNG-tests-2] INFO LT_Logger - Enter last name
+2021-12-31 13:13:30,297 [TestNG-tests-2] INFO LT_Logger - Enter comapny name
+2021-12-31 13:13:30,468 [TestNG-tests-2] INFO LT_Logger - Click on save button
+2021-12-31 13:13:31,535 [TestNG-tests-2] INFO LT_Logger - Click on logout button
+2021-12-31 13:13:31,831 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 13:13:34,190 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 13:13:40,271 [TestNG-tests-3] INFO LT_Logger - Click on search text
+2021-12-31 13:13:42,343 [TestNG-tests-3] INFO LT_Logger - Enter the email id
+2021-12-31 13:13:44,470 [TestNG-tests-3] INFO LT_Logger - Click on search button
+2021-12-31 16:45:24,861 [TestNG-tests-2] INFO LT_Logger - Home page is launched
+2021-12-31 16:45:24,973 [TestNG-tests-3] INFO LT_Logger - Home page is launched
+2021-12-31 16:45:25,346 [TestNG-tests-1] INFO LT_Logger - Enter username
+2021-12-31 16:45:25,598 [TestNG-tests-1] INFO LT_Logger - Enter password
+2021-12-31 16:45:30,833 [TestNG-tests-1] INFO LT_Logger - Click on login button
+2021-12-31 16:45:31,268 [TestNG-tests-4] INFO LT_Logger - Click on customer tab
+2021-12-31 16:45:32,153 [TestNG-tests-3] INFO LT_Logger - Click on Add New button
+2021-12-31 16:45:33,375 [TestNG-tests-4] INFO LT_Logger - Click on sub customer tab
+2021-12-31 16:45:35,004 [TestNG-tests-3] INFO LT_Logger - Enter Email Id
+2021-12-31 16:45:35,163 [TestNG-tests-2] INFO LT_Logger - Click on Add New button
+2021-12-31 16:45:35,260 [TestNG-tests-3] INFO LT_Logger - Enter password 
+2021-12-31 16:45:35,497 [TestNG-tests-3] INFO LT_Logger - Enter first name
+2021-12-31 16:45:35,666 [TestNG-tests-3] INFO LT_Logger - Enter last name
+2021-12-31 16:45:35,880 [TestNG-tests-3] INFO LT_Logger - Enter comapny name
+2021-12-31 16:45:36,133 [TestNG-tests-3] INFO LT_Logger - Click on save button
+2021-12-31 16:45:36,439 [TestNG-tests-2] INFO LT_Logger - Enter Email Id
+2021-12-31 16:45:36,746 [TestNG-tests-2] INFO LT_Logger - Enter password 
+2021-12-31 16:45:37,085 [TestNG-tests-2] INFO LT_Logger - Enter first name
+2021-12-31 16:45:37,366 [TestNG-tests-2] INFO LT_Logger - Enter last name
+2021-12-31 16:45:37,578 [TestNG-tests-2] INFO LT_Logger - Enter comapny name
+2021-12-31 16:45:37,749 [TestNG-tests-2] INFO LT_Logger - Click on save button
+2021-12-31 16:45:38,628 [TestNG-tests-4] INFO LT_Logger - Click on search text
+2021-12-31 16:45:38,952 [TestNG-tests-2] INFO LT_Logger - Click on logout button
+2021-12-31 16:45:40,753 [TestNG-tests-4] INFO LT_Logger - Enter the email id
+2021-12-31 16:45:41,406 [TestNG-tests-3] INFO LT_Logger - Click on Add New button
+2021-12-31 16:45:42,889 [TestNG-tests-4] INFO LT_Logger - Click on search button
+2021-12-31 16:45:43,729 [TestNG-tests-3] INFO LT_Logger - Enter Email Id
+2021-12-31 16:45:43,991 [TestNG-tests-3] INFO LT_Logger - Enter password 
+2021-12-31 16:45:44,130 [TestNG-tests-3] INFO LT_Logger - Enter first name
+2021-12-31 16:45:44,279 [TestNG-tests-3] INFO LT_Logger - Enter last name
+2021-12-31 16:45:44,398 [TestNG-tests-3] INFO LT_Logger - Enter comapny name
+2021-12-31 16:45:44,532 [TestNG-tests-3] INFO LT_Logger - Click on save button
+2021-12-31 16:45:49,181 [TestNG-tests-3] INFO LT_Logger - Click on Add New button
+2021-12-31 16:45:50,732 [TestNG-tests-3] INFO LT_Logger - Enter Email Id
+2021-12-31 16:45:51,117 [TestNG-tests-3] INFO LT_Logger - Enter password 
+2021-12-31 16:45:51,255 [TestNG-tests-3] INFO LT_Logger - Enter first name
+2021-12-31 16:45:51,375 [TestNG-tests-3] INFO LT_Logger - Enter last name
+2021-12-31 16:45:51,490 [TestNG-tests-3] INFO LT_Logger - Enter comapny name
+2021-12-31 16:45:51,621 [TestNG-tests-3] INFO LT_Logger - Click on save button
+2021-12-31 16:45:56,170 [TestNG-tests-3] INFO LT_Logger - Click on Add New button
+2021-12-31 16:45:58,003 [TestNG-tests-3] INFO LT_Logger - Enter Email Id
+2021-12-31 16:45:58,402 [TestNG-tests-3] INFO LT_Logger - Enter password 
+2021-12-31 16:45:58,545 [TestNG-tests-3] INFO LT_Logger - Enter first name
+2021-12-31 16:45:58,678 [TestNG-tests-3] INFO LT_Logger - Enter last name
+2021-12-31 16:45:58,813 [TestNG-tests-3] INFO LT_Logger - Enter comapny name
+2021-12-31 16:45:58,960 [TestNG-tests-3] INFO LT_Logger - Click on save button
+2021-12-31 17:18:52,425 [main] INFO LT_Logger - Home page is launched
+2021-12-31 17:18:58,242 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 17:19:00,768 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 17:19:01,017 [main] INFO LT_Logger - Enter password 
+2021-12-31 17:19:01,191 [main] INFO LT_Logger - Enter first name
+2021-12-31 17:19:01,340 [main] INFO LT_Logger - Enter last name
+2021-12-31 17:19:01,476 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 17:19:01,683 [main] INFO LT_Logger - Click on save button
+2021-12-31 17:20:07,940 [main] INFO LT_Logger - Home page is launched
+2021-12-31 17:20:12,918 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 17:20:15,059 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 17:20:15,290 [main] INFO LT_Logger - Enter password 
+2021-12-31 17:20:15,444 [main] INFO LT_Logger - Enter first name
+2021-12-31 17:20:15,580 [main] INFO LT_Logger - Enter last name
+2021-12-31 17:20:15,711 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 17:20:15,865 [main] INFO LT_Logger - Click on save button
+2021-12-31 17:33:20,935 [main] INFO LT_Logger - Home page is launched
+2021-12-31 17:33:26,562 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 17:33:29,113 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 17:33:29,343 [main] INFO LT_Logger - Enter password 
+2021-12-31 17:33:29,509 [main] INFO LT_Logger - Enter first name
+2021-12-31 17:33:29,653 [main] INFO LT_Logger - Enter last name
+2021-12-31 17:33:29,794 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 17:33:29,979 [main] INFO LT_Logger - Click on save button
+2021-12-31 17:36:47,053 [main] INFO LT_Logger - Home page is launched
+2021-12-31 17:36:53,110 [main] INFO LT_Logger - Click on Add New button
+2021-12-31 17:36:55,625 [main] INFO LT_Logger - Enter Email Id
+2021-12-31 17:36:55,838 [main] INFO LT_Logger - Enter password 
+2021-12-31 17:36:55,999 [main] INFO LT_Logger - Enter first name
+2021-12-31 17:36:56,166 [main] INFO LT_Logger - Enter last name
+2021-12-31 17:36:56,310 [main] INFO LT_Logger - Enter comapny name
+2021-12-31 17:36:56,487 [main] INFO LT_Logger - Click on save button
+2022-01-07 15:00:51,433 [TestNG-tests-2] INFO LT_Logger - Home page is launched
+2022-01-07 15:00:51,472 [TestNG-tests-3] INFO LT_Logger - Home page is launched
+2022-01-07 15:00:52,090 [TestNG-tests-1] INFO LT_Logger - Enter username
+2022-01-07 15:00:52,303 [TestNG-tests-1] INFO LT_Logger - Enter password
+2022-01-07 15:00:57,065 [TestNG-tests-1] INFO LT_Logger - Click on login button
+2022-01-07 15:00:59,028 [TestNG-tests-4] INFO LT_Logger - Click on customer tab
+2022-01-07 15:00:59,500 [TestNG-tests-3] INFO LT_Logger - Click on Add New button
+2022-01-07 15:01:00,278 [TestNG-tests-2] INFO LT_Logger - Click on Add New button
+2022-01-07 15:01:01,276 [TestNG-tests-4] INFO LT_Logger - Click on sub customer tab
+2022-01-07 15:01:01,854 [TestNG-tests-2] INFO LT_Logger - Enter Email Id
+2022-01-07 15:01:02,364 [TestNG-tests-2] INFO LT_Logger - Enter password 
+2022-01-07 15:01:02,615 [TestNG-tests-2] INFO LT_Logger - Enter first name
+2022-01-07 15:01:02,673 [TestNG-tests-3] INFO LT_Logger - Enter Email Id
+2022-01-07 15:01:02,876 [TestNG-tests-2] INFO LT_Logger - Enter last name
+2022-01-07 15:01:02,981 [TestNG-tests-3] INFO LT_Logger - Enter password 
+2022-01-07 15:01:03,063 [TestNG-tests-2] INFO LT_Logger - Enter comapny name
+2022-01-07 15:01:03,186 [TestNG-tests-3] INFO LT_Logger - Enter first name
+2022-01-07 15:01:03,243 [TestNG-tests-2] INFO LT_Logger - Click on save button
+2022-01-07 15:01:03,408 [TestNG-tests-3] INFO LT_Logger - Enter last name
+2022-01-07 15:01:03,574 [TestNG-tests-3] INFO LT_Logger - Enter comapny name
+2022-01-07 15:01:03,887 [TestNG-tests-3] INFO LT_Logger - Click on save button
+2022-01-07 15:01:04,112 [TestNG-tests-2] INFO LT_Logger - Click on logout button
+2022-01-07 15:01:06,407 [TestNG-tests-4] INFO LT_Logger - Click on search text
+2022-01-07 15:01:08,520 [TestNG-tests-4] INFO LT_Logger - Enter the email id
+2022-01-07 15:01:09,391 [TestNG-tests-3] INFO LT_Logger - Click on Add New button
+2022-01-07 15:01:11,132 [TestNG-tests-3] INFO LT_Logger - Enter Email Id
+2022-01-07 15:01:11,602 [TestNG-tests-3] INFO LT_Logger - Enter password 
+2022-01-07 15:01:11,757 [TestNG-tests-3] INFO LT_Logger - Enter first name
+2022-01-07 15:01:11,896 [TestNG-tests-3] INFO LT_Logger - Enter last name
+2022-01-07 15:01:12,033 [TestNG-tests-3] INFO LT_Logger - Enter comapny name
+2022-01-07 15:01:12,184 [TestNG-tests-3] INFO LT_Logger - Click on save button
+2022-01-07 15:01:14,686 [TestNG-tests-4] INFO LT_Logger - Click on search text
+2022-01-07 15:01:16,768 [TestNG-tests-4] INFO LT_Logger - Enter the email id
+2022-01-07 15:01:17,087 [TestNG-tests-3] INFO LT_Logger - Click on Add New button
+2022-01-07 15:01:19,410 [TestNG-tests-4] INFO LT_Logger - Click on search button
+2022-01-07 15:01:19,532 [TestNG-tests-3] INFO LT_Logger - Enter Email Id
+2022-01-07 15:01:20,008 [TestNG-tests-3] INFO LT_Logger - Enter password 
+2022-01-07 15:01:20,185 [TestNG-tests-3] INFO LT_Logger - Enter first name
+2022-01-07 15:01:20,366 [TestNG-tests-3] INFO LT_Logger - Enter last name
+2022-01-07 15:01:20,520 [TestNG-tests-3] INFO LT_Logger - Enter comapny name
+2022-01-07 15:01:20,693 [TestNG-tests-3] INFO LT_Logger - Click on save button
+2022-01-07 15:01:25,652 [TestNG-tests-3] INFO LT_Logger - Click on Add New button
+2022-01-07 15:01:27,899 [TestNG-tests-3] INFO LT_Logger - Enter Email Id
+2022-01-07 15:01:28,206 [TestNG-tests-3] INFO LT_Logger - Enter password 
+2022-01-07 15:01:28,421 [TestNG-tests-3] INFO LT_Logger - Enter first name
+2022-01-07 15:01:28,597 [TestNG-tests-3] INFO LT_Logger - Enter last name
+2022-01-07 15:01:28,792 [TestNG-tests-3] INFO LT_Logger - Enter comapny name
+2022-01-07 15:01:28,988 [TestNG-tests-3] INFO LT_Logger - Click on save button
+2022-01-07 15:03:21,007 [TestNG-tests-1] INFO LT_Logger - Enter username
+2022-01-07 15:03:21,171 [TestNG-tests-1] INFO LT_Logger - Enter password
+2022-01-07 15:03:24,884 [TestNG-tests-1] INFO LT_Logger - Click on login button
+2022-01-07 15:03:26,271 [TestNG-tests-2] INFO LT_Logger - Click on customer tab
+2022-01-07 15:03:28,367 [TestNG-tests-2] INFO LT_Logger - Click on sub customer tab
+2022-01-07 15:03:33,536 [TestNG-tests-2] INFO LT_Logger - Click on search text
+2022-01-07 15:03:35,630 [TestNG-tests-2] INFO LT_Logger - Enter the email id
+2022-01-07 15:03:41,731 [TestNG-tests-2] INFO LT_Logger - Click on search text
+2022-01-07 15:03:43,795 [TestNG-tests-2] INFO LT_Logger - Enter the email id
+2022-01-07 15:03:45,911 [TestNG-tests-2] INFO LT_Logger - Click on search button
+2022-01-07 15:28:24,924 [TestNG-tests-1] INFO LT_Logger - Enter username
+2022-01-07 15:28:25,107 [TestNG-tests-1] INFO LT_Logger - Enter password
+2022-01-07 15:28:29,902 [TestNG-tests-1] INFO LT_Logger - Click on login button
+2022-01-07 15:28:30,682 [TestNG-tests-2] INFO LT_Logger - Click on customer tab
+2022-01-07 15:28:32,821 [TestNG-tests-2] INFO LT_Logger - Click on sub customer tab
+2022-01-07 15:28:37,850 [TestNG-tests-2] INFO LT_Logger - Click on search text
+2022-01-07 15:28:40,025 [TestNG-tests-2] INFO LT_Logger - Enter the email id
+2022-01-07 15:28:46,160 [TestNG-tests-2] INFO LT_Logger - Click on search text
+2022-01-07 15:28:48,267 [TestNG-tests-2] INFO LT_Logger - Enter the email id
+2022-01-07 15:28:50,394 [TestNG-tests-2] INFO LT_Logger - Click on search button
+2022-01-11 11:47:20,444 [TestNG-tests-1] INFO LT_Logger - Enter username
+2022-01-11 11:47:20,658 [TestNG-tests-1] INFO LT_Logger - Enter password
+2022-01-11 11:47:25,195 [TestNG-tests-1] INFO LT_Logger - Click on login button
+2022-01-11 11:47:26,527 [TestNG-tests-2] INFO LT_Logger - Click on customer tab
+2022-01-11 11:47:28,670 [TestNG-tests-2] INFO LT_Logger - Click on sub customer tab
+2022-01-11 11:47:33,671 [TestNG-tests-2] INFO LT_Logger - Click on search text
+2022-01-11 11:47:35,793 [TestNG-tests-2] INFO LT_Logger - Enter the email id
+2022-01-11 11:47:41,959 [TestNG-tests-2] INFO LT_Logger - Click on search text
+2022-01-11 11:47:44,054 [TestNG-tests-2] INFO LT_Logger - Enter the email id
+2022-01-11 11:47:46,217 [TestNG-tests-2] INFO LT_Logger - Click on search button
+2022-01-11 11:47:54,530 [TestNG-tests-2] INFO LT_Logger - Click on search text
+2022-01-11 11:47:56,624 [TestNG-tests-2] INFO LT_Logger - Enter the email id
+2022-01-11 11:48:02,702 [TestNG-tests-2] INFO LT_Logger - Click on search text
+2022-01-11 11:48:04,806 [TestNG-tests-2] INFO LT_Logger - Enter the email id
+2022-01-11 11:48:06,943 [TestNG-tests-2] INFO LT_Logger - Click on search button
+2022-01-11 12:41:32,711 [TestNG-tests-1] INFO LT_Logger - Enter username
+2022-01-11 12:41:33,034 [TestNG-tests-1] INFO LT_Logger - Enter password
+2022-01-11 12:41:45,988 [TestNG-tests-1] INFO LT_Logger - Click on login button
+2022-01-11 12:41:47,360 [TestNG-tests-2] INFO LT_Logger - Click on customer tab
+2022-01-11 12:41:49,495 [TestNG-tests-2] INFO LT_Logger - Click on sub customer tab
+2022-01-11 12:41:55,267 [TestNG-tests-2] INFO LT_Logger - Click on search text
+2022-01-11 12:41:57,385 [TestNG-tests-2] INFO LT_Logger - Enter the email id
+2022-01-11 12:42:03,538 [TestNG-tests-2] INFO LT_Logger - Click on search text
+2022-01-11 12:42:05,628 [TestNG-tests-2] INFO LT_Logger - Enter the email id
+2022-01-11 12:42:07,764 [TestNG-tests-2] INFO LT_Logger - Click on search button
+2022-01-13 20:17:01,302 [main] INFO LT_Logger - launching the url in Chrome
+2022-01-13 20:17:02,066 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 20:17:03,135 [main] INFO LT_Logger - Performing login operation
+2022-01-13 20:17:03,605 [main] INFO LT_Logger - Verifying the default filter selection
+2022-01-13 20:17:04,380 [main] INFO LT_Logger - performing add and remove products
+2022-01-13 20:17:14,891 [main] INFO LT_Logger - verfying the checkout page
+2022-01-13 20:17:15,092 [main] INFO LT_Logger - Applying price low to high filter
+2022-01-13 20:18:31,342 [main] INFO LT_Logger - launching the url in Chrome
+2022-01-13 20:18:31,842 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 20:18:32,895 [main] INFO LT_Logger - Performing login operation
+2022-01-13 20:18:33,334 [main] INFO LT_Logger - Verifying the default filter selection
+2022-01-13 20:18:33,962 [main] INFO LT_Logger - performing add and remove products
+2022-01-13 20:19:29,081 [main] INFO LT_Logger - launching the url in Chrome
+2022-01-13 20:19:29,681 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 20:19:30,753 [main] INFO LT_Logger - Performing login operation
+2022-01-13 20:19:31,305 [main] INFO LT_Logger - Verifying the default filter selection
+2022-01-13 20:19:32,253 [main] INFO LT_Logger - performing add and remove products
+2022-01-13 20:19:42,722 [main] INFO LT_Logger - verfying the checkout page
+2022-01-13 20:19:42,899 [main] INFO LT_Logger - Applying price low to high filter
+2022-01-13 20:23:35,044 [main] INFO LT_Logger - launching the url in Chrome
+2022-01-13 20:23:35,626 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 20:23:36,690 [main] INFO LT_Logger - Performing login operation
+2022-01-13 20:23:37,162 [main] INFO LT_Logger - Verifying the default filter selection
+2022-01-13 20:23:37,947 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 20:23:38,995 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 20:23:40,032 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 20:34:22,484 [main] INFO LT_Logger - launching the url in Chrome
+2022-01-13 20:34:23,107 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 20:34:24,164 [main] INFO LT_Logger - Performing login operation
+2022-01-13 20:34:24,662 [main] INFO LT_Logger - Verifying the default filter selection
+2022-01-13 20:35:42,352 [main] INFO LT_Logger - launching the url in Chrome
+2022-01-13 20:35:42,924 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 20:35:43,984 [main] INFO LT_Logger - Performing login operation
+2022-01-13 20:35:44,504 [main] INFO LT_Logger - Verifying the default filter selection
+2022-01-13 20:35:45,177 [main] INFO LT_Logger - performing add and remove products
+2022-01-13 20:35:55,768 [main] INFO LT_Logger - verfying the checkout page
+2022-01-13 20:35:55,959 [main] INFO LT_Logger - Applying price low to high filter
+2022-01-13 20:41:18,089 [main] INFO LT_Logger - launching the url in Chrome
+2022-01-13 20:41:18,724 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 20:41:19,779 [main] INFO LT_Logger - Performing login operation
+2022-01-13 20:41:20,247 [main] INFO LT_Logger - Verifying the default filter selection
+2022-01-13 20:41:20,994 [main] INFO LT_Logger - performing add and remove products
+2022-01-13 20:41:31,545 [main] INFO LT_Logger - verfying the checkout page
+2022-01-13 20:41:31,720 [main] INFO LT_Logger - Applying price low to high filter
+2022-01-13 20:45:54,571 [main] INFO LT_Logger - launching the url in Chrome
+2022-01-13 20:45:55,199 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 20:45:56,261 [main] INFO LT_Logger - Performing login operation
+2022-01-13 20:45:56,733 [main] INFO LT_Logger - Verifying the default filter selection
+2022-01-13 20:45:57,471 [main] INFO LT_Logger - performing add and remove products
+2022-01-13 20:46:07,975 [main] INFO LT_Logger - verfying the checkout page
+2022-01-13 20:46:08,166 [main] INFO LT_Logger - Applying price low to high filter
+2022-01-13 20:50:12,786 [main] INFO LT_Logger - launching the url in Chrome
+2022-01-13 20:50:13,478 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 20:50:14,535 [main] INFO LT_Logger - Performing login operation
+2022-01-13 20:50:15,048 [main] INFO LT_Logger - Verifying the default filter selection
+2022-01-13 20:50:15,844 [main] INFO LT_Logger - performing add and remove products
+2022-01-13 20:50:26,386 [main] INFO LT_Logger - verfying the checkout page
+2022-01-13 20:50:26,580 [main] INFO LT_Logger - Applying price low to high filter
+2022-01-13 21:14:26,647 [main] INFO LT_Logger - launching the url in Chrome
+2022-01-13 21:14:27,263 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:14:28,332 [main] INFO LT_Logger - Performing login operation
+2022-01-13 21:14:28,888 [main] INFO LT_Logger - Verifying the default filter selection
+2022-01-13 21:14:29,584 [main] INFO LT_Logger - performing add and remove products
+2022-01-13 21:14:40,398 [main] INFO LT_Logger - verfying the checkout page
+2022-01-13 21:14:40,594 [main] INFO LT_Logger - Applying price low to high filter
+2022-01-13 21:21:25,901 [main] INFO LT_Logger - launching the url in Chrome
+2022-01-13 21:21:26,657 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:21:27,726 [main] INFO LT_Logger - Performing login operation
+2022-01-13 21:21:28,267 [main] INFO LT_Logger - Verifying the default filter selection
+2022-01-13 21:21:29,217 [main] INFO LT_Logger - performing add and remove products
+2022-01-13 21:21:39,700 [main] INFO LT_Logger - verfying the checkout page
+2022-01-13 21:21:39,884 [main] INFO LT_Logger - Applying price low to high filter
+2022-01-13 21:21:47,161 [main] INFO LT_Logger - launching the url in Chrome
+2022-01-13 21:21:48,707 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:21:49,759 [main] INFO LT_Logger - Performing login operation
+2022-01-13 21:21:50,276 [main] INFO LT_Logger - Verifying the default filter selection
+2022-01-13 21:21:51,123 [main] INFO LT_Logger - performing add and remove products
+2022-01-13 21:22:01,652 [main] INFO LT_Logger - verfying the checkout page
+2022-01-13 21:22:01,810 [main] INFO LT_Logger - Applying price low to high filter
+2022-01-13 21:22:54,993 [main] INFO LT_Logger - launching the url in Chrome
+2022-01-13 21:22:55,558 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:22:56,623 [main] INFO LT_Logger - Performing login operation
+2022-01-13 21:22:57,165 [main] INFO LT_Logger - Verifying the default filter selection
+2022-01-13 21:22:57,943 [main] INFO LT_Logger - performing add and remove products
+2022-01-13 21:23:08,555 [main] INFO LT_Logger - verfying the checkout page
+2022-01-13 21:23:08,724 [main] INFO LT_Logger - Applying price low to high filter
+2022-01-13 21:23:15,754 [main] INFO LT_Logger - launching the url in Chrome
+2022-01-13 21:23:16,320 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:23:17,366 [main] INFO LT_Logger - Performing login operation
+2022-01-13 21:23:17,835 [main] INFO LT_Logger - Verifying the default filter selection
+2022-01-13 21:23:18,894 [main] INFO LT_Logger - performing add and remove products
+2022-01-13 21:23:41,858 [main] INFO LT_Logger - launching the url in Chrome
+2022-01-13 21:23:42,399 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:23:43,466 [main] INFO LT_Logger - Performing login operation
+2022-01-13 21:23:43,962 [main] INFO LT_Logger - Verifying the default filter selection
+2022-01-13 21:23:44,682 [main] INFO LT_Logger - performing add and remove products
+2022-01-13 21:23:55,183 [main] INFO LT_Logger - verfying the checkout page
+2022-01-13 21:23:55,358 [main] INFO LT_Logger - Applying price low to high filter
+2022-01-13 21:24:01,508 [main] INFO LT_Logger - launching the url in Chrome
+2022-01-13 21:24:02,030 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:24:03,079 [main] INFO LT_Logger - Performing login operation
+2022-01-13 21:24:03,579 [main] INFO LT_Logger - Verifying the default filter selection
+2022-01-13 21:24:04,398 [main] INFO LT_Logger - performing add and remove products
+2022-01-13 21:24:14,788 [main] INFO LT_Logger - verfying the checkout page
+2022-01-13 21:24:14,937 [main] INFO LT_Logger - Applying price low to high filter
+2022-01-13 21:37:04,894 [main] INFO LT_Logger - launching the url in Chrome
+2022-01-13 21:37:05,497 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:37:06,559 [main] INFO LT_Logger - Performing login operation
+2022-01-13 21:37:07,039 [main] INFO LT_Logger - Verifying the default filter selection
+2022-01-13 21:37:07,666 [main] INFO LT_Logger - performing add and remove products
+2022-01-13 21:37:18,356 [main] INFO LT_Logger - verfying the checkout page
+2022-01-13 21:37:18,532 [main] INFO LT_Logger - Applying price low to high filter
+2022-01-13 21:37:18,729 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:37:19,774 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:37:20,824 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:37:27,395 [main] INFO LT_Logger - launching the url in Chrome
+2022-01-13 21:37:28,016 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:37:29,063 [main] INFO LT_Logger - Performing login operation
+2022-01-13 21:37:29,773 [main] INFO LT_Logger - Verifying the default filter selection
+2022-01-13 21:37:30,324 [main] INFO LT_Logger - performing add and remove products
+2022-01-13 21:37:40,876 [main] INFO LT_Logger - verfying the checkout page
+2022-01-13 21:37:41,016 [main] INFO LT_Logger - Applying price low to high filter
+2022-01-13 21:37:41,143 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:37:42,168 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:37:43,193 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:50:29,365 [main] INFO LT_Logger - launching the url in Chrome
+2022-01-13 21:50:29,952 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:50:31,017 [main] INFO LT_Logger - Performing login operation
+2022-01-13 21:50:31,543 [main] INFO LT_Logger - Verifying the default filter selection
+2022-01-13 21:50:32,161 [main] INFO LT_Logger - performing add and remove products
+2022-01-13 21:50:42,866 [main] INFO LT_Logger - verfying the checkout page
+2022-01-13 21:50:43,111 [main] INFO LT_Logger - Applying price low to high filter
+2022-01-13 21:50:43,321 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:50:44,374 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:50:45,404 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:50:52,612 [main] INFO LT_Logger - launching the url in Chrome
+2022-01-13 21:50:53,246 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:50:54,305 [main] INFO LT_Logger - Performing login operation
+2022-01-13 21:50:54,784 [main] INFO LT_Logger - Verifying the default filter selection
+2022-01-13 21:50:55,723 [main] INFO LT_Logger - performing add and remove products
+2022-01-13 21:51:06,145 [main] INFO LT_Logger - verfying the checkout page
+2022-01-13 21:51:06,284 [main] INFO LT_Logger - Applying price low to high filter
+2022-01-13 21:51:06,415 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:51:07,449 [main] INFO LT_Logger - Performing validations in login page
+2022-01-13 21:51:08,473 [main] INFO LT_Logger - Performing validations in login page

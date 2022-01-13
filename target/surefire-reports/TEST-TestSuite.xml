@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="50.021" tests="8" errors="0" skipped="6" failures="2">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="webdriver.chrome.driver" value="C:\Users\admin\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\admin\eclipse-workspace\com.org.lnt.Finance\target\test-classes;C:\Users\admin\eclipse-workspace\com.org.lnt.Finance\target\classes;C:\Users\admin\.m2\repository\io\github\bonigarcia\webdrivermanager\4.4.3\webdrivermanager-4.4.3.jar;C:\Users\admin\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\admin\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\admin\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\admin\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\admin\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.3\httpclient5-5.0.3.jar;C:\Users\admin\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.2\httpcore5-5.0.2.jar;C:\Users\admin\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.2\httpcore5-h2-5.0.2.jar;C:\Users\admin\.m2\repository\org\rauschig\jarchivelib\1.1.0\jarchivelib-1.1.0.jar;C:\Users\admin\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Users\admin\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\admin\.m2\repository\org\apache\poi\poi\5.1.0\poi-5.1.0.jar;C:\Users\admin\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\admin\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\admin\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\admin\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\admin\.m2\repository\org\apache\logging\log4j\log4j-api\2.14.1\log4j-api-2.14.1.jar;C:\Users\admin\.m2\repository\com\aventstack\extentreports\4.0.9\extentreports-4.0.9.jar;C:\Users\admin\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar;C:\Users\admin\.m2\repository\org\mongodb\mongodb-driver\3.3.0\mongodb-driver-3.3.0.jar;C:\Users\admin\.m2\repository\org\mongodb\mongodb-driver-core\3.3.0\mongodb-driver-core-3.3.0.jar;C:\Users\admin\.m2\repository\org\mongodb\bson\3.3.0\bson-3.3.0.jar;C:\Users\admin\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\Users\admin\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar;C:\Users\admin\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\admin\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar;C:\Users\admin\.m2\repository\org\apache\poi\poi-ooxml\5.1.0\poi-ooxml-5.1.0.jar;C:\Users\admin\.m2\repository\org\apache\poi\poi-ooxml-lite\5.1.0\poi-ooxml-lite-5.1.0.jar;C:\Users\admin\.m2\repository\org\apache\xmlbeans\xmlbeans\5.0.2\xmlbeans-5.0.2.jar;C:\Users\admin\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\admin\.m2\repository\com\github\virtuald\curvesapi\1.06\curvesapi-1.06.jar;C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\admin\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\admin\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\admin\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\admin\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\admin\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\admin\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\admin\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\admin\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\admin\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\admin\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\admin\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar;C:\Users\admin\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\admin\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Users\admin\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\admin\AppData\Local\Temp\surefire18124932242032417910\surefirebooter9221161371723222206.jar C:\Users\admin\AppData\Local\Temp\surefire18124932242032417910 2022-01-13T21-50-20_166-jvmRun1 surefire1415593210061391039tmp surefire_06108227915923159278tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\admin\eclipse-workspace\com.org.lnt.Finance\target\test-classes;C:\Users\admin\eclipse-workspace\com.org.lnt.Finance\target\classes;C:\Users\admin\.m2\repository\io\github\bonigarcia\webdrivermanager\4.4.3\webdrivermanager-4.4.3.jar;C:\Users\admin\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\admin\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\admin\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\admin\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\admin\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.3\httpclient5-5.0.3.jar;C:\Users\admin\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.2\httpcore5-5.0.2.jar;C:\Users\admin\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.2\httpcore5-h2-5.0.2.jar;C:\Users\admin\.m2\repository\org\rauschig\jarchivelib\1.1.0\jarchivelib-1.1.0.jar;C:\Users\admin\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Users\admin\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\admin\.m2\repository\org\apache\poi\poi\5.1.0\poi-5.1.0.jar;C:\Users\admin\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\admin\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\admin\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\admin\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\admin\.m2\repository\org\apache\logging\log4j\log4j-api\2.14.1\log4j-api-2.14.1.jar;C:\Users\admin\.m2\repository\com\aventstack\extentreports\4.0.9\extentreports-4.0.9.jar;C:\Users\admin\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar;C:\Users\admin\.m2\repository\org\mongodb\mongodb-driver\3.3.0\mongodb-driver-3.3.0.jar;C:\Users\admin\.m2\repository\org\mongodb\mongodb-driver-core\3.3.0\mongodb-driver-core-3.3.0.jar;C:\Users\admin\.m2\repository\org\mongodb\bson\3.3.0\bson-3.3.0.jar;C:\Users\admin\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\Users\admin\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar;C:\Users\admin\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\admin\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar;C:\Users\admin\.m2\repository\org\apache\poi\poi-ooxml\5.1.0\poi-ooxml-5.1.0.jar;C:\Users\admin\.m2\repository\org\apache\poi\poi-ooxml-lite\5.1.0\poi-ooxml-lite-5.1.0.jar;C:\Users\admin\.m2\repository\org\apache\xmlbeans\xmlbeans\5.0.2\xmlbeans-5.0.2.jar;C:\Users\admin\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\admin\.m2\repository\com\github\virtuald\curvesapi\1.06\curvesapi-1.06.jar;C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\admin\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\admin\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\admin\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\admin\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\admin\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\admin\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\admin\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\admin\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\admin\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\admin\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\admin\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar;C:\Users\admin\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\admin\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\admin"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-10-19"/>
+    <property name="java.home" value="C:\Users\admin\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657\jre"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\admin\eclipse-workspace\com.org.lnt.Finance"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\admin\AppData\Local\Temp\surefire18124932242032417910\surefirebooter9221161371723222206.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.1+12"/>
+    <property name="webdriver.edge.driver" value="C:\Users\admin\.cache\selenium\msedgedriver\win64\97.0.1072.55\msedgedriver.exe"/>
+    <property name="user.name" value="admin"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-17.0.1+12"/>
+    <property name="localRepository" value="C:\Users\admin\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\admin\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.1"/>
+    <property name="user.dir" value="C:\Users\admin\eclipse-workspace\com.org.lnt.Finance"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Users\admin\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/admin/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657/jre/bin/server;C:/Users/admin/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657/jre/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\admin\eclipse-workspace\com.org.lnt.Finance;C:\Users\admin\Downloads\apache-maven-3.8.4-bin\apache-maven-3.8.4\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\admin\AppData\Local\Microsoft\WindowsApps;C:\Users\admin\AppData\Local\GitHubDesktop\bin;C:\Users\admin\AppData\Roaming\npm;C:\WINDOWS\system32;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="17.0.1+12"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="AddProduct" classname="swagLabsEx.MainTest" time="0">
+    <skipped message="Cannot locate option with index: 8&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;DESKTOP-Q2RM1HI&apos;, ip: &apos;10.1.10.111&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.1&apos;&#10;Driver info: driver.version: unknown"/>
+    <system-out><![CDATA[ INFO [main] (BaseTest.java:104)- launching the url in Chrome
+ INFO [main] (MainTest.java:9)- Performing validations in login page
+Login pager title is:Swag Labs
+Login Text is:
+Login Button text is in uppercase
+ INFO [main] (MainTest.java:13)- Performing login operation
+ INFO [main] (MainTest.java:19)- Verifying the default filter selection
+ INFO [main] (MainTest.java:22)- performing add and remove products
+ INFO [main] (MainTest.java:25)- verfying the checkout page
+ INFO [main] (MainTest.java:28)- Applying price low to high filter
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting MSEdgeDriver 97.0.1072.55 (ce3bf3364880558d4945082f4ac36e01fe36716e) on port 27142
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping MSEdgeDriver safe.
+MSEdgeDriver was started successfully.
+Jan 13, 2022 9:50:28 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+]]></system-err>
+  </testcase>
+  <testcase name="AddProduct" classname="swagLabsEx.MainTest" time="0">
+    <skipped message="no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;#login\-button&quot;}&#10;  (Session info: MicrosoftEdge=97.0.1072.55)&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;DESKTOP-Q2RM1HI&apos;, ip: &apos;10.1.10.111&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.1&apos;&#10;Driver info: org.openqa.selenium.edge.EdgeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 97.0.1072.55, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:56280}, msedge: {msedgedriverVersion: 97.0.1072.55 (ce3bf33648805..., userDataDir: C:\Users\admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: e5f728deaad2a2e819b8b6acc9c960ef&#10;*** Element info: {Using=id, value=login-button}"/>
+    <system-out><![CDATA[ INFO [main] (MainTest.java:9)- Performing validations in login page
+Login pager title is:Swag Labs
+]]></system-out>
+  </testcase>
+  <testcase name="AddProduct" classname="swagLabsEx.MainTest" time="0">
+    <skipped message="no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;#login\-button&quot;}&#10;  (Session info: MicrosoftEdge=97.0.1072.55)&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;DESKTOP-Q2RM1HI&apos;, ip: &apos;10.1.10.111&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.1&apos;&#10;Driver info: org.openqa.selenium.edge.EdgeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 97.0.1072.55, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:56280}, msedge: {msedgedriverVersion: 97.0.1072.55 (ce3bf33648805..., userDataDir: C:\Users\admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: e5f728deaad2a2e819b8b6acc9c960ef&#10;*** Element info: {Using=id, value=login-button}"/>
+    <system-out><![CDATA[ INFO [main] (MainTest.java:9)- Performing validations in login page
+Login pager title is:Swag Labs
+]]></system-out>
+  </testcase>
+  <testcase name="AddProduct" classname="swagLabsEx.MainTest" time="1.046">
+    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;#login\-button&quot;}&#10;  (Session info: MicrosoftEdge=97.0.1072.55)&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;DESKTOP-Q2RM1HI&apos;, ip: &apos;10.1.10.111&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.1&apos;&#10;Driver info: org.openqa.selenium.edge.EdgeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 97.0.1072.55, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:56280}, msedge: {msedgedriverVersion: 97.0.1072.55 (ce3bf33648805..., userDataDir: C:\Users\admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: e5f728deaad2a2e819b8b6acc9c960ef&#10;*** Element info: {Using=id, value=login-button}" type="org.openqa.selenium.NoSuchElementException"><![CDATA[org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":"#login\-button"}
+  (Session info: MicrosoftEdge=97.0.1072.55)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-Q2RM1HI', ip: '10.1.10.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 97.0.1072.55, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:56280}, msedge: {msedgedriverVersion: 97.0.1072.55 (ce3bf33648805..., userDataDir: C:\Users\admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e5f728deaad2a2e819b8b6acc9c960ef
+*** Element info: {Using=id, value=login-button}
+	at swagLabsEx.MainTest.AddProduct(MainTest.java:11)
+]]></failure>
+    <system-out><![CDATA[ INFO [main] (MainTest.java:9)- Performing validations in login page
+Login pager title is:Swag Labs
+]]></system-out>
+  </testcase>
+  <testcase name="AddProduct" classname="swagLabsEx.MainTest" time="0">
+    <skipped message="Cannot locate option with index: 8&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;DESKTOP-Q2RM1HI&apos;, ip: &apos;10.1.10.111&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.1&apos;&#10;Driver info: driver.version: unknown"/>
+    <system-out><![CDATA[ INFO [main] (BaseTest.java:104)- launching the url in Chrome
+ INFO [main] (MainTest.java:9)- Performing validations in login page
+Login pager title is:Swag Labs
+Login Text is:
+Login Button text is in uppercase
+ INFO [main] (MainTest.java:13)- Performing login operation
+ INFO [main] (MainTest.java:19)- Verifying the default filter selection
+ INFO [main] (MainTest.java:22)- performing add and remove products
+ INFO [main] (MainTest.java:25)- verfying the checkout page
+ INFO [main] (MainTest.java:28)- Applying price low to high filter
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 97.0.4692.71 (adefa7837d02a07a604c1e6eff0b3a09422ab88d-refs/branch-heads/4692@{#1247}) on port 43223
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jan 13, 2022 9:50:52 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="AddProduct" classname="swagLabsEx.MainTest" time="0">
+    <skipped message="no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;#login\-button&quot;}&#10;  (Session info: chrome=97.0.4692.71)&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;DESKTOP-Q2RM1HI&apos;, ip: &apos;10.1.10.111&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.1&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56330}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: c0c41512a70e784156b247b08e97cefd&#10;*** Element info: {Using=id, value=login-button}"/>
+    <system-out><![CDATA[ INFO [main] (MainTest.java:9)- Performing validations in login page
+Login pager title is:Swag Labs
+]]></system-out>
+  </testcase>
+  <testcase name="AddProduct" classname="swagLabsEx.MainTest" time="0">
+    <skipped message="no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;#login\-button&quot;}&#10;  (Session info: chrome=97.0.4692.71)&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;DESKTOP-Q2RM1HI&apos;, ip: &apos;10.1.10.111&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.1&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56330}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: c0c41512a70e784156b247b08e97cefd&#10;*** Element info: {Using=id, value=login-button}"/>
+    <system-out><![CDATA[ INFO [main] (MainTest.java:9)- Performing validations in login page
+Login pager title is:Swag Labs
+]]></system-out>
+  </testcase>
+  <testcase name="AddProduct" classname="swagLabsEx.MainTest" time="1.022">
+    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;#login\-button&quot;}&#10;  (Session info: chrome=97.0.4692.71)&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;DESKTOP-Q2RM1HI&apos;, ip: &apos;10.1.10.111&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.1&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56330}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: c0c41512a70e784156b247b08e97cefd&#10;*** Element info: {Using=id, value=login-button}" type="org.openqa.selenium.NoSuchElementException"><![CDATA[org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":"#login\-button"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-Q2RM1HI', ip: '10.1.10.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56330}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c0c41512a70e784156b247b08e97cefd
+*** Element info: {Using=id, value=login-button}
+	at swagLabsEx.MainTest.AddProduct(MainTest.java:11)
+]]></failure>
+    <system-out><![CDATA[ INFO [main] (MainTest.java:9)- Performing validations in login page
+Login pager title is:Swag Labs
+]]></system-out>
+  </testcase>
+</testsuite>

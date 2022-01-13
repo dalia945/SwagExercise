@@ -1,0 +1,925 @@
+2021-12-31 07:11:11,240 - LT_Logger -INFO - entering the username
+2021-12-31 07:11:11,484 - LT_Logger -INFO - entering the password
+2021-12-31 07:11:11,657 - LT_Logger -INFO - clicking on login button
+2021-12-31 07:11:13,837 - LT_Logger -INFO - getting page title
+2021-12-31 07:11:13,927 - LT_Logger -INFO - verifying the logo
+2021-12-31 07:11:14,277 - LT_Logger -INFO - clicking on logout button
+2021-12-31 07:26:39,246 - LT_Logger -INFO - enter creds
+2021-12-31 07:26:51,667 - LT_Logger -INFO - clicking on login button
+2021-12-31 07:28:09,085 - LT_Logger -INFO - enter creds
+2021-12-31 07:28:12,261 - LT_Logger -INFO - clicking on login button
+2021-12-31 07:29:57,858 - LT_Logger -INFO - enter creds
+2021-12-31 07:30:00,583 - LT_Logger -INFO - clicking on login button
+2021-12-31 07:32:38,511 - LT_Logger -INFO - enter creds
+2021-12-31 07:32:41,733 - LT_Logger -INFO - clicking on login button
+2021-12-31 07:33:17,958 - LT_Logger -INFO - enter creds
+2021-12-31 07:33:21,291 - LT_Logger -INFO - clicking on login button
+2021-12-31 07:35:43,188 - LT_Logger -INFO - enter creds
+2021-12-31 07:35:46,108 - LT_Logger -INFO - clicking on login button
+2021-12-31 07:36:48,738 - LT_Logger -INFO - enter creds
+2021-12-31 07:36:51,804 - LT_Logger -INFO - clicking on login button
+2021-12-31 07:38:33,042 - LT_Logger -INFO - enter creds
+2021-12-31 07:38:35,957 - LT_Logger -INFO - clicking on login button
+2021-12-31 07:39:32,390 - LT_Logger -INFO - enter creds
+2021-12-31 07:39:35,400 - LT_Logger -INFO - clicking on login button
+2021-12-31 07:42:23,234 - LT_Logger -INFO - enter creds
+2021-12-31 07:42:25,961 - LT_Logger -INFO - clicking on login button
+2021-12-31 07:46:15,561 - LT_Logger -INFO - enter creds
+2021-12-31 07:46:18,362 - LT_Logger -INFO - clicking on login button
+2021-12-31 07:50:32,717 - LT_Logger -INFO - enter creds
+2021-12-31 07:50:35,857 - LT_Logger -INFO - clicking on login button
+2021-12-31 08:06:26,108 - LT_Logger -INFO - Home page is launched
+2021-12-31 08:06:32,639 - LT_Logger -INFO - clicking on addnew btn
+2021-12-31 08:06:32,907 - LT_Logger -INFO - Click on logout button
+2021-12-31 08:07:52,145 - LT_Logger -INFO - Home page is launched
+2021-12-31 08:07:57,152 - LT_Logger -INFO - clicking on addnew btn
+2021-12-31 08:07:57,401 - LT_Logger -INFO - Click on logout button
+2021-12-31 08:08:34,946 - LT_Logger -INFO - Home page is launched
+2021-12-31 08:08:39,818 - LT_Logger -INFO - clicking on addnew btn
+2021-12-31 08:18:37,913 - LT_Logger -INFO - Enter username
+2021-12-31 08:18:38,092 - LT_Logger -INFO - Enter password
+2021-12-31 08:18:53,438 - LT_Logger -INFO - Click on login button
+2021-12-31 08:27:07,780 - LT_Logger -INFO - Home page is launched
+2021-12-31 08:27:17,889 - LT_Logger -INFO - Click on Add New button
+2021-12-31 08:27:20,924 - LT_Logger -INFO - Enter Email Id
+2021-12-31 08:27:21,159 - LT_Logger -INFO - Enter password 
+2021-12-31 08:27:21,544 - LT_Logger -INFO - Enter first name
+2021-12-31 08:27:21,694 - LT_Logger -INFO - Enter last name
+2021-12-31 08:27:21,858 - LT_Logger -INFO - Enter comapny name
+2021-12-31 08:27:21,943 - LT_Logger -INFO - Click on logout button
+2021-12-31 08:28:10,144 - LT_Logger -INFO - Home page is launched
+2021-12-31 08:28:18,159 - LT_Logger -INFO - Click on Add New button
+2021-12-31 08:28:19,562 - LT_Logger -INFO - Enter Email Id
+2021-12-31 08:28:19,790 - LT_Logger -INFO - Enter password 
+2021-12-31 08:28:20,176 - LT_Logger -INFO - Enter first name
+2021-12-31 08:28:20,328 - LT_Logger -INFO - Enter last name
+2021-12-31 08:28:20,484 - LT_Logger -INFO - Enter comapny name
+2021-12-31 08:28:20,561 - LT_Logger -INFO - Click on logout button
+2021-12-31 08:29:52,834 - LT_Logger -INFO - Home page is launched
+2021-12-31 08:30:01,302 - LT_Logger -INFO - Click on Add New button
+2021-12-31 08:30:02,695 - LT_Logger -INFO - Enter Email Id
+2021-12-31 08:30:02,940 - LT_Logger -INFO - Enter password 
+2021-12-31 08:30:03,340 - LT_Logger -INFO - Enter first name
+2021-12-31 08:30:03,495 - LT_Logger -INFO - Enter last name
+2021-12-31 08:30:03,666 - LT_Logger -INFO - Enter comapny name
+2021-12-31 08:30:03,838 - LT_Logger -INFO - Click on save button
+2021-12-31 08:30:05,051 - LT_Logger -INFO - Click on logout button
+2021-12-31 08:30:37,744 - LT_Logger -INFO - Home page is launched
+2021-12-31 08:33:17,367 - LT_Logger -INFO - Home page is launched
+2021-12-31 08:43:25,439 - LT_Logger -INFO - Home page is launched
+2021-12-31 08:43:35,020 - LT_Logger -INFO - Click on Add New button
+2021-12-31 08:43:36,430 - LT_Logger -INFO - Enter Email Id
+2021-12-31 08:43:36,665 - LT_Logger -INFO - Enter password 
+2021-12-31 08:43:37,031 - LT_Logger -INFO - Enter first name
+2021-12-31 08:43:37,194 - LT_Logger -INFO - Enter last name
+2021-12-31 08:43:37,371 - LT_Logger -INFO - Enter comapny name
+2021-12-31 08:43:37,539 - LT_Logger -INFO - Click on save button
+2021-12-31 08:43:38,598 - LT_Logger -INFO - Click on logout button
+2021-12-31 08:43:47,604 - LT_Logger -INFO - Enter username
+2021-12-31 08:43:47,980 - LT_Logger -INFO - Enter password
+2021-12-31 08:43:52,548 - LT_Logger -INFO - Click on login button
+2021-12-31 08:44:05,948 - LT_Logger -INFO - Click on customer tab
+2021-12-31 08:44:08,131 - LT_Logger -INFO - Click on sub customer tab
+2021-12-31 08:44:13,768 - LT_Logger -INFO - Click on search text
+2021-12-31 08:44:15,847 - LT_Logger -INFO - Enter the email id
+2021-12-31 08:47:17,830 - LT_Logger -INFO - Home page is launched
+2021-12-31 08:47:26,879 - LT_Logger -INFO - Click on Add New button
+2021-12-31 08:47:28,511 - LT_Logger -INFO - Enter Email Id
+2021-12-31 08:47:28,733 - LT_Logger -INFO - Enter password 
+2021-12-31 08:47:29,048 - LT_Logger -INFO - Enter first name
+2021-12-31 08:47:29,355 - LT_Logger -INFO - Enter last name
+2021-12-31 08:47:29,533 - LT_Logger -INFO - Enter comapny name
+2021-12-31 08:47:29,708 - LT_Logger -INFO - Click on save button
+2021-12-31 08:47:30,801 - LT_Logger -INFO - Click on logout button
+2021-12-31 08:47:38,561 - LT_Logger -INFO - Enter username
+2021-12-31 08:47:38,721 - LT_Logger -INFO - Enter password
+2021-12-31 08:47:42,826 - LT_Logger -INFO - Click on login button
+2021-12-31 08:47:56,544 - LT_Logger -INFO - Click on customer tab
+2021-12-31 08:47:58,666 - LT_Logger -INFO - Click on sub customer tab
+2021-12-31 08:48:03,765 - LT_Logger -INFO - Click on search text
+2021-12-31 08:48:05,871 - LT_Logger -INFO - Enter the email id
+2021-12-31 08:48:08,022 - LT_Logger -INFO - Click on search button
+2021-12-31 08:51:55,069 - LT_Logger -INFO - Home page is launched
+2021-12-31 08:52:04,439 - LT_Logger -INFO - Click on Add New button
+2021-12-31 08:52:06,061 - LT_Logger -INFO - Enter Email Id
+2021-12-31 08:52:06,396 - LT_Logger -INFO - Enter password 
+2021-12-31 08:52:06,728 - LT_Logger -INFO - Enter first name
+2021-12-31 08:52:06,880 - LT_Logger -INFO - Enter last name
+2021-12-31 08:52:07,043 - LT_Logger -INFO - Enter comapny name
+2021-12-31 08:52:07,222 - LT_Logger -INFO - Click on save button
+2021-12-31 08:52:08,272 - LT_Logger -INFO - Click on logout button
+2021-12-31 08:52:16,417 - LT_Logger -INFO - Enter username
+2021-12-31 08:52:16,587 - LT_Logger -INFO - Enter password
+2021-12-31 08:52:20,825 - LT_Logger -INFO - Click on login button
+2021-12-31 08:52:34,510 - LT_Logger -INFO - Click on customer tab
+2021-12-31 08:52:36,669 - LT_Logger -INFO - Click on sub customer tab
+2021-12-31 08:52:42,111 - LT_Logger -INFO - Click on search text
+2021-12-31 08:52:44,189 - LT_Logger -INFO - Enter the email id
+2021-12-31 08:52:50,275 - LT_Logger -INFO - Click on search text
+2021-12-31 08:52:52,345 - LT_Logger -INFO - Enter the email id
+2021-12-31 08:52:54,488 - LT_Logger -INFO - Click on search button
+2021-12-31 08:57:01,821 - LT_Logger -INFO - Home page is launched
+2021-12-31 08:57:10,715 - LT_Logger -INFO - Click on Add New button
+2021-12-31 08:57:12,814 - LT_Logger -INFO - Enter Email Id
+2021-12-31 08:57:13,046 - LT_Logger -INFO - Enter password 
+2021-12-31 08:57:13,218 - LT_Logger -INFO - Enter first name
+2021-12-31 08:57:13,412 - LT_Logger -INFO - Enter last name
+2021-12-31 08:57:13,590 - LT_Logger -INFO - Enter comapny name
+2021-12-31 08:57:13,777 - LT_Logger -INFO - Click on save button
+2021-12-31 08:57:15,381 - LT_Logger -INFO - Click on logout button
+2021-12-31 08:57:23,742 - LT_Logger -INFO - Enter username
+2021-12-31 08:57:23,901 - LT_Logger -INFO - Enter password
+2021-12-31 08:57:27,817 - LT_Logger -INFO - Click on login button
+2021-12-31 08:57:41,113 - LT_Logger -INFO - Click on customer tab
+2021-12-31 08:57:43,281 - LT_Logger -INFO - Click on sub customer tab
+2021-12-31 08:57:48,692 - LT_Logger -INFO - Click on search text
+2021-12-31 08:57:50,779 - LT_Logger -INFO - Enter the email id
+2021-12-31 08:57:56,897 - LT_Logger -INFO - Click on search text
+2021-12-31 08:57:58,963 - LT_Logger -INFO - Enter the email id
+2021-12-31 08:58:01,127 - LT_Logger -INFO - Click on search button
+2021-12-31 09:01:42,713 - LT_Logger -INFO - Home page is launched
+2021-12-31 09:01:51,983 - LT_Logger -INFO - Click on Add New button
+2021-12-31 09:01:53,761 - LT_Logger -INFO - Enter Email Id
+2021-12-31 09:01:53,985 - LT_Logger -INFO - Enter password 
+2021-12-31 09:01:54,358 - LT_Logger -INFO - Enter first name
+2021-12-31 09:01:54,515 - LT_Logger -INFO - Enter last name
+2021-12-31 09:01:54,685 - LT_Logger -INFO - Enter comapny name
+2021-12-31 09:01:54,873 - LT_Logger -INFO - Click on save button
+2021-12-31 09:01:55,968 - LT_Logger -INFO - Click on logout button
+2021-12-31 09:02:04,448 - LT_Logger -INFO - Enter username
+2021-12-31 09:02:04,606 - LT_Logger -INFO - Enter password
+2021-12-31 09:02:08,433 - LT_Logger -INFO - Click on login button
+2021-12-31 09:02:21,378 - LT_Logger -INFO - Click on customer tab
+2021-12-31 09:02:23,570 - LT_Logger -INFO - Click on sub customer tab
+2021-12-31 09:02:28,794 - LT_Logger -INFO - Click on search text
+2021-12-31 09:02:30,876 - LT_Logger -INFO - Enter the email id
+2021-12-31 09:02:36,955 - LT_Logger -INFO - Click on search text
+2021-12-31 09:02:39,014 - LT_Logger -INFO - Enter the email id
+2021-12-31 09:02:41,156 - LT_Logger -INFO - Click on search button
+2021-12-31 09:15:43,489 - LT_Logger -INFO - Home page is launched
+2021-12-31 09:16:08,838 - LT_Logger -INFO - Click on Add New button
+2021-12-31 09:16:12,834 - LT_Logger -INFO - Enter Email Id
+2021-12-31 09:16:13,028 - LT_Logger -INFO - Enter password 
+2021-12-31 09:16:13,194 - LT_Logger -INFO - Enter first name
+2021-12-31 09:16:13,341 - LT_Logger -INFO - Enter last name
+2021-12-31 09:16:13,488 - LT_Logger -INFO - Enter comapny name
+2021-12-31 09:16:13,638 - LT_Logger -INFO - Click on save button
+2021-12-31 09:16:15,873 - LT_Logger -INFO - Click on customer tab
+2021-12-31 09:16:16,186 - LT_Logger -INFO - Enter username
+2021-12-31 09:16:16,327 - LT_Logger -INFO - Enter password
+2021-12-31 09:16:20,070 - LT_Logger -INFO - Click on login button
+2021-12-31 09:16:25,946 - LT_Logger -INFO - Click on sub customer tab
+2021-12-31 09:16:27,204 - LT_Logger -INFO - Click on logout button
+2021-12-31 09:16:35,124 - LT_Logger -INFO - Click on search text
+2021-12-31 09:16:37,210 - LT_Logger -INFO - Enter the email id
+2021-12-31 09:16:43,290 - LT_Logger -INFO - Click on search text
+2021-12-31 09:16:45,359 - LT_Logger -INFO - Enter the email id
+2021-12-31 09:16:47,491 - LT_Logger -INFO - Click on search button
+2021-12-31 09:20:50,063 - LT_Logger -INFO - Home page is launched
+2021-12-31 09:20:51,003 - LT_Logger -INFO - Enter username
+2021-12-31 09:20:51,177 - LT_Logger -INFO - Enter password
+2021-12-31 09:20:56,068 - LT_Logger -INFO - Click on login button
+2021-12-31 09:20:57,784 - LT_Logger -INFO - Click on customer tab
+2021-12-31 09:21:00,158 - LT_Logger -INFO - Click on sub customer tab
+2021-12-31 09:21:00,706 - LT_Logger -INFO - Click on Add New button
+2021-12-31 09:21:04,532 - LT_Logger -INFO - Enter Email Id
+2021-12-31 09:21:04,775 - LT_Logger -INFO - Enter password 
+2021-12-31 09:21:04,944 - LT_Logger -INFO - Enter first name
+2021-12-31 09:21:05,112 - LT_Logger -INFO - Enter last name
+2021-12-31 09:21:05,302 - LT_Logger -INFO - Enter comapny name
+2021-12-31 09:21:05,483 - LT_Logger -INFO - Click on save button
+2021-12-31 09:21:05,496 - LT_Logger -INFO - Click on search text
+2021-12-31 09:21:06,464 - LT_Logger -INFO - Click on logout button
+2021-12-31 09:21:07,576 - LT_Logger -INFO - Enter the email id
+2021-12-31 09:21:13,652 - LT_Logger -INFO - Click on search text
+2021-12-31 09:21:15,729 - LT_Logger -INFO - Enter the email id
+2021-12-31 09:21:17,855 - LT_Logger -INFO - Click on search button
+2021-12-31 09:22:37,547 - LT_Logger -INFO - Enter username
+2021-12-31 09:22:37,627 - LT_Logger -INFO - Home page is launched
+2021-12-31 09:22:37,721 - LT_Logger -INFO - Enter password
+2021-12-31 09:22:42,298 - LT_Logger -INFO - Click on login button
+2021-12-31 09:22:43,159 - LT_Logger -INFO - Click on customer tab
+2021-12-31 09:22:44,831 - LT_Logger -INFO - Click on Add New button
+2021-12-31 09:22:45,274 - LT_Logger -INFO - Click on sub customer tab
+2021-12-31 09:22:46,228 - LT_Logger -INFO - Enter Email Id
+2021-12-31 09:22:46,478 - LT_Logger -INFO - Enter password 
+2021-12-31 09:22:46,658 - LT_Logger -INFO - Enter first name
+2021-12-31 09:22:46,809 - LT_Logger -INFO - Enter last name
+2021-12-31 09:22:46,962 - LT_Logger -INFO - Enter comapny name
+2021-12-31 09:22:47,114 - LT_Logger -INFO - Click on save button
+2021-12-31 09:22:48,165 - LT_Logger -INFO - Click on logout button
+2021-12-31 09:22:50,516 - LT_Logger -INFO - Click on search text
+2021-12-31 09:22:52,616 - LT_Logger -INFO - Enter the email id
+2021-12-31 09:22:58,693 - LT_Logger -INFO - Click on search text
+2021-12-31 09:23:00,750 - LT_Logger -INFO - Enter the email id
+2021-12-31 09:23:02,863 - LT_Logger -INFO - Click on search button
+2021-12-31 09:39:34,463 - LT_Logger -INFO - Home page is launched
+2021-12-31 09:39:34,776 - LT_Logger -INFO - Enter username
+2021-12-31 09:39:34,937 - LT_Logger -INFO - Enter password
+2021-12-31 09:39:39,638 - LT_Logger -INFO - Click on login button
+2021-12-31 09:39:40,461 - LT_Logger -INFO - Click on customer tab
+2021-12-31 09:39:42,300 - LT_Logger -INFO - Click on Add New button
+2021-12-31 09:39:42,599 - LT_Logger -INFO - Click on sub customer tab
+2021-12-31 09:39:43,718 - LT_Logger -INFO - Enter Email Id
+2021-12-31 09:39:43,944 - LT_Logger -INFO - Enter password 
+2021-12-31 09:39:44,099 - LT_Logger -INFO - Enter first name
+2021-12-31 09:39:44,230 - LT_Logger -INFO - Enter last name
+2021-12-31 09:39:44,382 - LT_Logger -INFO - Enter comapny name
+2021-12-31 09:39:44,550 - LT_Logger -INFO - Click on save button
+2021-12-31 09:39:45,579 - LT_Logger -INFO - Click on logout button
+2021-12-31 09:39:47,762 - LT_Logger -INFO - Click on search text
+2021-12-31 09:39:49,841 - LT_Logger -INFO - Enter the email id
+2021-12-31 09:39:55,920 - LT_Logger -INFO - Click on search text
+2021-12-31 09:39:57,976 - LT_Logger -INFO - Enter the email id
+2021-12-31 09:40:00,076 - LT_Logger -INFO - Click on search button
+2021-12-31 09:49:57,930 - LT_Logger -INFO - Home page is launched
+2021-12-31 09:49:58,511 - LT_Logger -INFO - Enter username
+2021-12-31 09:49:58,676 - LT_Logger -INFO - Enter password
+2021-12-31 09:50:02,976 - LT_Logger -INFO - Click on login button
+2021-12-31 09:50:03,826 - LT_Logger -INFO - Click on customer tab
+2021-12-31 09:50:05,965 - LT_Logger -INFO - Click on sub customer tab
+2021-12-31 09:50:06,301 - LT_Logger -INFO - Click on Add New button
+2021-12-31 09:50:07,649 - LT_Logger -INFO - Enter Email Id
+2021-12-31 09:50:07,845 - LT_Logger -INFO - Enter password 
+2021-12-31 09:50:08,001 - LT_Logger -INFO - Enter first name
+2021-12-31 09:50:08,146 - LT_Logger -INFO - Enter last name
+2021-12-31 09:50:08,291 - LT_Logger -INFO - Enter comapny name
+2021-12-31 09:50:08,444 - LT_Logger -INFO - Click on save button
+2021-12-31 09:50:09,216 - LT_Logger -INFO - Click on logout button
+2021-12-31 09:50:11,121 - LT_Logger -INFO - Click on search text
+2021-12-31 09:50:13,221 - LT_Logger -INFO - Enter the email id
+2021-12-31 09:50:19,300 - LT_Logger -INFO - Click on search text
+2021-12-31 09:50:21,361 - LT_Logger -INFO - Enter the email id
+2021-12-31 09:50:23,475 - LT_Logger -INFO - Click on search button
+2021-12-31 09:51:07,462 - LT_Logger -INFO - Home page is launched
+2021-12-31 09:53:08,402 - LT_Logger -INFO - Home page is launched
+2021-12-31 09:56:15,237 - LT_Logger -INFO - Home page is launched
+2021-12-31 10:07:40,303 - LT_Logger -INFO - Home page is launched
+2021-12-31 10:10:20,391 - LT_Logger -INFO - Home page is launched
+2021-12-31 10:10:25,502 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:10:27,867 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:10:28,055 - LT_Logger -INFO - Enter password 
+2021-12-31 10:10:28,206 - LT_Logger -INFO - Enter first name
+2021-12-31 10:10:28,347 - LT_Logger -INFO - Enter last name
+2021-12-31 10:10:28,473 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:10:28,602 - LT_Logger -INFO - Click on save button
+2021-12-31 10:13:36,178 - LT_Logger -INFO - Home page is launched
+2021-12-31 10:13:41,501 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:13:43,781 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:13:43,996 - LT_Logger -INFO - Enter password 
+2021-12-31 10:13:44,164 - LT_Logger -INFO - Enter first name
+2021-12-31 10:13:44,316 - LT_Logger -INFO - Enter last name
+2021-12-31 10:13:44,446 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:13:44,591 - LT_Logger -INFO - Click on save button
+2021-12-31 10:14:59,470 - LT_Logger -INFO - Home page is launched
+2021-12-31 10:15:04,842 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:15:07,097 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:15:07,302 - LT_Logger -INFO - Enter password 
+2021-12-31 10:15:07,463 - LT_Logger -INFO - Enter first name
+2021-12-31 10:15:07,611 - LT_Logger -INFO - Enter last name
+2021-12-31 10:15:07,733 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:15:07,860 - LT_Logger -INFO - Click on save button
+2021-12-31 10:15:44,972 - LT_Logger -INFO - Home page is launched
+2021-12-31 10:15:50,361 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:15:52,558 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:15:52,777 - LT_Logger -INFO - Enter password 
+2021-12-31 10:15:52,956 - LT_Logger -INFO - Enter first name
+2021-12-31 10:15:53,140 - LT_Logger -INFO - Enter last name
+2021-12-31 10:15:53,285 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:15:53,426 - LT_Logger -INFO - Click on save button
+2021-12-31 10:16:52,487 - LT_Logger -INFO - Home page is launched
+2021-12-31 10:16:57,559 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:16:59,993 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:17:00,269 - LT_Logger -INFO - Enter password 
+2021-12-31 10:17:00,430 - LT_Logger -INFO - Enter first name
+2021-12-31 10:17:00,576 - LT_Logger -INFO - Enter last name
+2021-12-31 10:17:00,707 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:17:00,842 - LT_Logger -INFO - Click on save button
+2021-12-31 10:18:06,561 - LT_Logger -INFO - Home page is launched
+2021-12-31 10:18:13,006 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:18:19,775 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:18:19,996 - LT_Logger -INFO - Enter password 
+2021-12-31 10:18:20,167 - LT_Logger -INFO - Enter first name
+2021-12-31 10:18:20,332 - LT_Logger -INFO - Enter last name
+2021-12-31 10:18:20,463 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:18:20,606 - LT_Logger -INFO - Click on save button
+2021-12-31 10:19:00,641 - LT_Logger -INFO - Home page is launched
+2021-12-31 10:19:06,561 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:19:08,705 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:19:08,932 - LT_Logger -INFO - Enter password 
+2021-12-31 10:19:09,117 - LT_Logger -INFO - Enter first name
+2021-12-31 10:19:09,282 - LT_Logger -INFO - Enter last name
+2021-12-31 10:19:09,417 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:19:09,568 - LT_Logger -INFO - Click on save button
+2021-12-31 10:22:26,740 - LT_Logger -INFO - Home page is launched
+2021-12-31 10:22:32,559 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:22:35,202 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:22:35,446 - LT_Logger -INFO - Enter password 
+2021-12-31 10:22:35,639 - LT_Logger -INFO - Enter first name
+2021-12-31 10:22:35,793 - LT_Logger -INFO - Enter last name
+2021-12-31 10:22:35,952 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:22:36,140 - LT_Logger -INFO - Click on save button
+2021-12-31 10:23:34,205 - LT_Logger -INFO - Home page is launched
+2021-12-31 10:23:40,549 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:23:43,103 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:23:43,318 - LT_Logger -INFO - Enter password 
+2021-12-31 10:23:43,490 - LT_Logger -INFO - Enter first name
+2021-12-31 10:23:43,634 - LT_Logger -INFO - Enter last name
+2021-12-31 10:23:43,762 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:23:43,915 - LT_Logger -INFO - Click on save button
+2021-12-31 10:23:49,004 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:23:51,470 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:23:51,892 - LT_Logger -INFO - Enter password 
+2021-12-31 10:23:52,037 - LT_Logger -INFO - Enter first name
+2021-12-31 10:23:52,201 - LT_Logger -INFO - Enter last name
+2021-12-31 10:23:52,334 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:23:52,458 - LT_Logger -INFO - Click on save button
+2021-12-31 10:23:57,515 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:23:59,278 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:23:59,741 - LT_Logger -INFO - Enter password 
+2021-12-31 10:23:59,894 - LT_Logger -INFO - Enter first name
+2021-12-31 10:24:00,042 - LT_Logger -INFO - Enter last name
+2021-12-31 10:24:00,193 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:24:00,333 - LT_Logger -INFO - Click on save button
+2021-12-31 10:24:05,134 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:24:06,848 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:24:07,261 - LT_Logger -INFO - Enter password 
+2021-12-31 10:24:07,411 - LT_Logger -INFO - Enter first name
+2021-12-31 10:24:07,554 - LT_Logger -INFO - Enter last name
+2021-12-31 10:24:07,698 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:24:07,844 - LT_Logger -INFO - Click on save button
+2021-12-31 10:26:01,202 - LT_Logger -INFO - Home page is launched
+2021-12-31 10:26:01,554 - LT_Logger -INFO - Home page is launched
+2021-12-31 10:26:01,983 - LT_Logger -INFO - Enter username
+2021-12-31 10:26:02,180 - LT_Logger -INFO - Enter password
+2021-12-31 10:26:06,533 - LT_Logger -INFO - Click on login button
+2021-12-31 10:26:08,139 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:26:08,794 - LT_Logger -INFO - Click on customer tab
+2021-12-31 10:26:10,533 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:26:10,941 - LT_Logger -INFO - Click on sub customer tab
+2021-12-31 10:26:11,413 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:26:11,770 - LT_Logger -INFO - Enter password 
+2021-12-31 10:26:11,975 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:26:12,061 - LT_Logger -INFO - Enter first name
+2021-12-31 10:26:12,328 - LT_Logger -INFO - Enter password 
+2021-12-31 10:26:12,350 - LT_Logger -INFO - Enter last name
+2021-12-31 10:26:12,565 - LT_Logger -INFO - Enter first name
+2021-12-31 10:26:12,604 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:26:12,751 - LT_Logger -INFO - Enter last name
+2021-12-31 10:26:12,782 - LT_Logger -INFO - Click on save button
+2021-12-31 10:26:12,943 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:26:13,106 - LT_Logger -INFO - Click on save button
+2021-12-31 10:26:13,991 - LT_Logger -INFO - Click on logout button
+2021-12-31 10:26:16,383 - LT_Logger -INFO - Click on search text
+2021-12-31 10:26:17,762 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:26:18,550 - LT_Logger -INFO - Enter the email id
+2021-12-31 10:26:19,451 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:26:19,884 - LT_Logger -INFO - Enter password 
+2021-12-31 10:26:20,038 - LT_Logger -INFO - Enter first name
+2021-12-31 10:26:20,193 - LT_Logger -INFO - Enter last name
+2021-12-31 10:26:20,325 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:26:20,498 - LT_Logger -INFO - Click on save button
+2021-12-31 10:26:24,676 - LT_Logger -INFO - Click on search text
+2021-12-31 10:26:25,176 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:26:26,760 - LT_Logger -INFO - Enter the email id
+2021-12-31 10:26:27,138 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:26:27,605 - LT_Logger -INFO - Enter password 
+2021-12-31 10:26:27,787 - LT_Logger -INFO - Enter first name
+2021-12-31 10:26:27,960 - LT_Logger -INFO - Enter last name
+2021-12-31 10:26:28,121 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:26:28,325 - LT_Logger -INFO - Click on save button
+2021-12-31 10:26:28,947 - LT_Logger -INFO - Click on search button
+2021-12-31 10:26:33,344 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:26:35,162 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:26:35,656 - LT_Logger -INFO - Enter password 
+2021-12-31 10:26:35,819 - LT_Logger -INFO - Enter first name
+2021-12-31 10:26:35,959 - LT_Logger -INFO - Enter last name
+2021-12-31 10:26:36,089 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:26:36,360 - LT_Logger -INFO - Click on save button
+2021-12-31 10:30:44,441 - LT_Logger -INFO - Home page is launched
+2021-12-31 10:30:44,514 - LT_Logger -INFO - Home page is launched
+2021-12-31 10:30:45,115 - LT_Logger -INFO - Enter username
+2021-12-31 10:30:45,313 - LT_Logger -INFO - Enter password
+2021-12-31 10:30:50,996 - LT_Logger -INFO - Click on login button
+2021-12-31 10:30:51,323 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:30:52,144 - LT_Logger -INFO - Click on customer tab
+2021-12-31 10:30:53,757 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:30:54,074 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:30:54,385 - LT_Logger -INFO - Enter password 
+2021-12-31 10:30:54,440 - LT_Logger -INFO - Click on sub customer tab
+2021-12-31 10:30:54,580 - LT_Logger -INFO - Enter first name
+2021-12-31 10:30:54,769 - LT_Logger -INFO - Enter last name
+2021-12-31 10:30:54,999 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:30:55,480 - LT_Logger -INFO - Click on save button
+2021-12-31 10:30:55,504 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:30:56,016 - LT_Logger -INFO - Enter password 
+2021-12-31 10:30:56,372 - LT_Logger -INFO - Enter first name
+2021-12-31 10:30:56,581 - LT_Logger -INFO - Enter last name
+2021-12-31 10:30:56,911 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:30:57,093 - LT_Logger -INFO - Click on save button
+2021-12-31 10:30:58,084 - LT_Logger -INFO - Click on logout button
+2021-12-31 10:30:59,865 - LT_Logger -INFO - Click on search text
+2021-12-31 10:31:00,776 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:31:01,966 - LT_Logger -INFO - Enter the email id
+2021-12-31 10:31:02,459 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:31:02,903 - LT_Logger -INFO - Enter password 
+2021-12-31 10:31:03,036 - LT_Logger -INFO - Enter first name
+2021-12-31 10:31:03,168 - LT_Logger -INFO - Enter last name
+2021-12-31 10:31:03,300 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:31:03,450 - LT_Logger -INFO - Click on save button
+2021-12-31 10:31:08,036 - LT_Logger -INFO - Click on search text
+2021-12-31 10:31:08,051 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:31:09,860 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:31:10,078 - LT_Logger -INFO - Enter password 
+2021-12-31 10:31:10,115 - LT_Logger -INFO - Enter the email id
+2021-12-31 10:31:10,232 - LT_Logger -INFO - Enter first name
+2021-12-31 10:31:10,380 - LT_Logger -INFO - Enter last name
+2021-12-31 10:31:10,513 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:31:10,657 - LT_Logger -INFO - Click on save button
+2021-12-31 10:31:12,254 - LT_Logger -INFO - Click on search button
+2021-12-31 10:31:15,558 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:31:17,350 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:31:17,765 - LT_Logger -INFO - Enter password 
+2021-12-31 10:31:17,910 - LT_Logger -INFO - Enter first name
+2021-12-31 10:31:18,041 - LT_Logger -INFO - Enter last name
+2021-12-31 10:31:18,160 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:31:18,301 - LT_Logger -INFO - Click on save button
+2021-12-31 10:36:04,164 - LT_Logger -INFO - Home page is launched
+2021-12-31 10:36:04,637 - LT_Logger -INFO - Enter username
+2021-12-31 10:36:04,814 - LT_Logger -INFO - Enter password
+2021-12-31 10:36:09,294 - LT_Logger -INFO - Click on login button
+2021-12-31 10:36:10,238 - LT_Logger -INFO - Click on customer tab
+2021-12-31 10:36:12,350 - LT_Logger -INFO - Click on sub customer tab
+2021-12-31 10:36:12,978 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:36:14,122 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:36:14,325 - LT_Logger -INFO - Enter password 
+2021-12-31 10:36:14,477 - LT_Logger -INFO - Enter first name
+2021-12-31 10:36:14,651 - LT_Logger -INFO - Enter last name
+2021-12-31 10:36:14,807 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:36:14,954 - LT_Logger -INFO - Click on save button
+2021-12-31 10:36:15,984 - LT_Logger -INFO - Click on logout button
+2021-12-31 10:36:17,492 - LT_Logger -INFO - Click on search text
+2021-12-31 10:36:19,601 - LT_Logger -INFO - Enter the email id
+2021-12-31 10:36:25,679 - LT_Logger -INFO - Click on search text
+2021-12-31 10:36:27,741 - LT_Logger -INFO - Enter the email id
+2021-12-31 10:36:29,872 - LT_Logger -INFO - Click on search button
+2021-12-31 10:39:55,013 - LT_Logger -INFO - Home page is launched
+2021-12-31 10:39:55,511 - LT_Logger -INFO - Enter username
+2021-12-31 10:39:55,657 - LT_Logger -INFO - Enter password
+2021-12-31 10:39:59,798 - LT_Logger -INFO - Click on login button
+2021-12-31 10:40:01,006 - LT_Logger -INFO - Click on customer tab
+2021-12-31 10:40:02,954 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:40:03,115 - LT_Logger -INFO - Click on sub customer tab
+2021-12-31 10:40:04,167 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:40:04,444 - LT_Logger -INFO - Enter password 
+2021-12-31 10:40:04,597 - LT_Logger -INFO - Enter first name
+2021-12-31 10:40:04,757 - LT_Logger -INFO - Enter last name
+2021-12-31 10:40:04,918 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:40:05,103 - LT_Logger -INFO - Click on save button
+2021-12-31 10:40:05,902 - LT_Logger -INFO - Click on logout button
+2021-12-31 10:40:08,304 - LT_Logger -INFO - Click on search text
+2021-12-31 10:40:10,401 - LT_Logger -INFO - Enter the email id
+2021-12-31 10:40:16,473 - LT_Logger -INFO - Click on search text
+2021-12-31 10:40:18,537 - LT_Logger -INFO - Enter the email id
+2021-12-31 10:40:20,666 - LT_Logger -INFO - Click on search button
+2021-12-31 10:55:09,936 - LT_Logger -INFO - Home page is launched
+2021-12-31 10:55:10,452 - LT_Logger -INFO - Enter username
+2021-12-31 10:55:10,631 - LT_Logger -INFO - Enter password
+2021-12-31 10:55:15,076 - LT_Logger -INFO - Click on login button
+2021-12-31 10:55:16,128 - LT_Logger -INFO - Click on customer tab
+2021-12-31 10:55:18,102 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:55:18,259 - LT_Logger -INFO - Click on sub customer tab
+2021-12-31 10:55:19,839 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:55:20,164 - LT_Logger -INFO - Enter password 
+2021-12-31 10:55:20,364 - LT_Logger -INFO - Enter first name
+2021-12-31 10:55:20,536 - LT_Logger -INFO - Enter last name
+2021-12-31 10:55:20,704 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:55:20,871 - LT_Logger -INFO - Click on save button
+2021-12-31 10:55:21,615 - LT_Logger -INFO - Click on logout button
+2021-12-31 10:55:23,981 - LT_Logger -INFO - Click on search text
+2021-12-31 10:55:26,118 - LT_Logger -INFO - Enter the email id
+2021-12-31 10:55:32,195 - LT_Logger -INFO - Click on search text
+2021-12-31 10:55:34,259 - LT_Logger -INFO - Enter the email id
+2021-12-31 10:55:36,377 - LT_Logger -INFO - Click on search button
+2021-12-31 10:58:06,664 - LT_Logger -INFO - Home page is launched
+2021-12-31 10:58:06,924 - LT_Logger -INFO - Enter username
+2021-12-31 10:58:07,100 - LT_Logger -INFO - Enter password
+2021-12-31 10:58:11,271 - LT_Logger -INFO - Click on login button
+2021-12-31 10:58:12,322 - LT_Logger -INFO - Click on customer tab
+2021-12-31 10:58:14,444 - LT_Logger -INFO - Click on sub customer tab
+2021-12-31 10:58:14,526 - LT_Logger -INFO - Click on Add New button
+2021-12-31 10:58:15,797 - LT_Logger -INFO - Enter Email Id
+2021-12-31 10:58:16,066 - LT_Logger -INFO - Enter password 
+2021-12-31 10:58:16,246 - LT_Logger -INFO - Enter first name
+2021-12-31 10:58:16,426 - LT_Logger -INFO - Enter last name
+2021-12-31 10:58:16,613 - LT_Logger -INFO - Enter comapny name
+2021-12-31 10:58:16,784 - LT_Logger -INFO - Click on save button
+2021-12-31 10:58:17,769 - LT_Logger -INFO - Click on logout button
+2021-12-31 10:58:19,786 - LT_Logger -INFO - Click on search text
+2021-12-31 10:58:21,891 - LT_Logger -INFO - Enter the email id
+2021-12-31 10:58:27,964 - LT_Logger -INFO - Click on search text
+2021-12-31 10:58:30,064 - LT_Logger -INFO - Enter the email id
+2021-12-31 10:58:32,182 - LT_Logger -INFO - Click on search button
+2021-12-31 11:06:45,244 - LT_Logger -INFO - Home page is launched
+2021-12-31 11:06:50,537 - LT_Logger -INFO - Click on Add New button
+2021-12-31 11:07:24,471 - LT_Logger -INFO - Home page is launched
+2021-12-31 11:07:29,394 - LT_Logger -INFO - Click on Add New button
+2021-12-31 11:07:31,853 - LT_Logger -INFO - Enter Email Id
+2021-12-31 11:07:32,062 - LT_Logger -INFO - Enter password 
+2021-12-31 11:07:32,222 - LT_Logger -INFO - Enter first name
+2021-12-31 11:07:32,366 - LT_Logger -INFO - Enter last name
+2021-12-31 11:07:32,496 - LT_Logger -INFO - Enter comapny name
+2021-12-31 11:07:32,649 - LT_Logger -INFO - Click on save button
+2021-12-31 11:09:26,851 - LT_Logger -INFO - Home page is launched
+2021-12-31 11:09:32,402 - LT_Logger -INFO - Click on Add New button
+2021-12-31 11:09:34,650 - LT_Logger -INFO - Enter Email Id
+2021-12-31 11:09:34,857 - LT_Logger -INFO - Enter password 
+2021-12-31 11:09:35,009 - LT_Logger -INFO - Enter first name
+2021-12-31 11:09:35,150 - LT_Logger -INFO - Enter last name
+2021-12-31 11:09:35,277 - LT_Logger -INFO - Enter comapny name
+2021-12-31 11:09:35,421 - LT_Logger -INFO - Click on save button
+2021-12-31 11:09:40,666 - LT_Logger -INFO - Click on Add New button
+2021-12-31 11:09:42,531 - LT_Logger -INFO - Enter Email Id
+2021-12-31 11:09:42,939 - LT_Logger -INFO - Enter password 
+2021-12-31 11:09:43,105 - LT_Logger -INFO - Enter first name
+2021-12-31 11:09:43,260 - LT_Logger -INFO - Enter last name
+2021-12-31 11:09:43,413 - LT_Logger -INFO - Enter comapny name
+2021-12-31 11:09:43,610 - LT_Logger -INFO - Click on save button
+2021-12-31 11:09:48,661 - LT_Logger -INFO - Click on Add New button
+2021-12-31 11:09:50,165 - LT_Logger -INFO - Enter Email Id
+2021-12-31 11:09:50,577 - LT_Logger -INFO - Enter password 
+2021-12-31 11:09:50,720 - LT_Logger -INFO - Enter first name
+2021-12-31 11:09:50,853 - LT_Logger -INFO - Enter last name
+2021-12-31 11:09:51,007 - LT_Logger -INFO - Enter comapny name
+2021-12-31 11:09:51,141 - LT_Logger -INFO - Click on save button
+2021-12-31 11:09:55,908 - LT_Logger -INFO - Click on Add New button
+2021-12-31 11:09:57,765 - LT_Logger -INFO - Enter Email Id
+2021-12-31 11:09:58,228 - LT_Logger -INFO - Enter password 
+2021-12-31 11:09:58,403 - LT_Logger -INFO - Enter first name
+2021-12-31 11:09:58,560 - LT_Logger -INFO - Enter last name
+2021-12-31 11:09:58,707 - LT_Logger -INFO - Enter comapny name
+2021-12-31 11:09:58,847 - LT_Logger -INFO - Click on save button
+2021-12-31 11:11:08,378 - LT_Logger -INFO - Home page is launched
+2021-12-31 11:11:13,460 - LT_Logger -INFO - Click on Add New button
+2021-12-31 11:11:15,529 - LT_Logger -INFO - Enter Email Id
+2021-12-31 11:11:15,744 - LT_Logger -INFO - Enter password 
+2021-12-31 11:11:15,904 - LT_Logger -INFO - Enter first name
+2021-12-31 11:11:16,050 - LT_Logger -INFO - Enter last name
+2021-12-31 11:11:16,181 - LT_Logger -INFO - Enter comapny name
+2021-12-31 11:11:16,333 - LT_Logger -INFO - Click on save button
+2021-12-31 11:11:21,433 - LT_Logger -INFO - Click on Add New button
+2021-12-31 11:11:23,075 - LT_Logger -INFO - Enter Email Id
+2021-12-31 11:11:23,488 - LT_Logger -INFO - Enter password 
+2021-12-31 11:11:23,662 - LT_Logger -INFO - Enter first name
+2021-12-31 11:11:23,796 - LT_Logger -INFO - Enter last name
+2021-12-31 11:11:23,916 - LT_Logger -INFO - Enter comapny name
+2021-12-31 11:11:24,053 - LT_Logger -INFO - Click on save button
+2021-12-31 11:11:29,107 - LT_Logger -INFO - Click on Add New button
+2021-12-31 11:11:30,656 - LT_Logger -INFO - Enter Email Id
+2021-12-31 11:11:31,064 - LT_Logger -INFO - Enter password 
+2021-12-31 11:11:31,208 - LT_Logger -INFO - Enter first name
+2021-12-31 11:11:31,340 - LT_Logger -INFO - Enter last name
+2021-12-31 11:11:31,501 - LT_Logger -INFO - Enter comapny name
+2021-12-31 11:11:31,634 - LT_Logger -INFO - Click on save button
+2021-12-31 11:11:36,422 - LT_Logger -INFO - Click on Add New button
+2021-12-31 11:11:38,238 - LT_Logger -INFO - Enter Email Id
+2021-12-31 11:11:38,748 - LT_Logger -INFO - Enter password 
+2021-12-31 11:11:38,883 - LT_Logger -INFO - Enter first name
+2021-12-31 11:11:39,011 - LT_Logger -INFO - Enter last name
+2021-12-31 11:11:39,141 - LT_Logger -INFO - Enter comapny name
+2021-12-31 11:11:39,267 - LT_Logger -INFO - Click on save button
+2021-12-31 13:13:16,186 - LT_Logger -INFO - Home page is launched
+2021-12-31 13:13:16,576 - LT_Logger -INFO - Enter username
+2021-12-31 13:13:16,816 - LT_Logger -INFO - Enter password
+2021-12-31 13:13:22,348 - LT_Logger -INFO - Click on login button
+2021-12-31 13:13:23,476 - LT_Logger -INFO - Click on customer tab
+2021-12-31 13:13:25,957 - LT_Logger -INFO - Click on sub customer tab
+2021-12-31 13:13:27,549 - LT_Logger -INFO - Click on Add New button
+2021-12-31 13:13:29,295 - LT_Logger -INFO - Enter Email Id
+2021-12-31 13:13:29,568 - LT_Logger -INFO - Enter password 
+2021-12-31 13:13:29,978 - LT_Logger -INFO - Enter first name
+2021-12-31 13:13:30,125 - LT_Logger -INFO - Enter last name
+2021-12-31 13:13:30,297 - LT_Logger -INFO - Enter comapny name
+2021-12-31 13:13:30,468 - LT_Logger -INFO - Click on save button
+2021-12-31 13:13:31,535 - LT_Logger -INFO - Click on logout button
+2021-12-31 13:13:31,831 - LT_Logger -INFO - Click on search text
+2021-12-31 13:13:34,190 - LT_Logger -INFO - Enter the email id
+2021-12-31 13:13:40,271 - LT_Logger -INFO - Click on search text
+2021-12-31 13:13:42,343 - LT_Logger -INFO - Enter the email id
+2021-12-31 13:13:44,470 - LT_Logger -INFO - Click on search button
+2021-12-31 16:45:24,861 - LT_Logger -INFO - Home page is launched
+2021-12-31 16:45:24,973 - LT_Logger -INFO - Home page is launched
+2021-12-31 16:45:25,346 - LT_Logger -INFO - Enter username
+2021-12-31 16:45:25,598 - LT_Logger -INFO - Enter password
+2021-12-31 16:45:30,833 - LT_Logger -INFO - Click on login button
+2021-12-31 16:45:31,268 - LT_Logger -INFO - Click on customer tab
+2021-12-31 16:45:32,153 - LT_Logger -INFO - Click on Add New button
+2021-12-31 16:45:33,375 - LT_Logger -INFO - Click on sub customer tab
+2021-12-31 16:45:35,004 - LT_Logger -INFO - Enter Email Id
+2021-12-31 16:45:35,163 - LT_Logger -INFO - Click on Add New button
+2021-12-31 16:45:35,260 - LT_Logger -INFO - Enter password 
+2021-12-31 16:45:35,497 - LT_Logger -INFO - Enter first name
+2021-12-31 16:45:35,666 - LT_Logger -INFO - Enter last name
+2021-12-31 16:45:35,880 - LT_Logger -INFO - Enter comapny name
+2021-12-31 16:45:36,133 - LT_Logger -INFO - Click on save button
+2021-12-31 16:45:36,439 - LT_Logger -INFO - Enter Email Id
+2021-12-31 16:45:36,746 - LT_Logger -INFO - Enter password 
+2021-12-31 16:45:37,085 - LT_Logger -INFO - Enter first name
+2021-12-31 16:45:37,366 - LT_Logger -INFO - Enter last name
+2021-12-31 16:45:37,578 - LT_Logger -INFO - Enter comapny name
+2021-12-31 16:45:37,749 - LT_Logger -INFO - Click on save button
+2021-12-31 16:45:38,628 - LT_Logger -INFO - Click on search text
+2021-12-31 16:45:38,952 - LT_Logger -INFO - Click on logout button
+2021-12-31 16:45:40,753 - LT_Logger -INFO - Enter the email id
+2021-12-31 16:45:41,406 - LT_Logger -INFO - Click on Add New button
+2021-12-31 16:45:42,889 - LT_Logger -INFO - Click on search button
+2021-12-31 16:45:43,729 - LT_Logger -INFO - Enter Email Id
+2021-12-31 16:45:43,991 - LT_Logger -INFO - Enter password 
+2021-12-31 16:45:44,130 - LT_Logger -INFO - Enter first name
+2021-12-31 16:45:44,279 - LT_Logger -INFO - Enter last name
+2021-12-31 16:45:44,398 - LT_Logger -INFO - Enter comapny name
+2021-12-31 16:45:44,532 - LT_Logger -INFO - Click on save button
+2021-12-31 16:45:49,181 - LT_Logger -INFO - Click on Add New button
+2021-12-31 16:45:50,732 - LT_Logger -INFO - Enter Email Id
+2021-12-31 16:45:51,117 - LT_Logger -INFO - Enter password 
+2021-12-31 16:45:51,255 - LT_Logger -INFO - Enter first name
+2021-12-31 16:45:51,375 - LT_Logger -INFO - Enter last name
+2021-12-31 16:45:51,490 - LT_Logger -INFO - Enter comapny name
+2021-12-31 16:45:51,621 - LT_Logger -INFO - Click on save button
+2021-12-31 16:45:56,170 - LT_Logger -INFO - Click on Add New button
+2021-12-31 16:45:58,003 - LT_Logger -INFO - Enter Email Id
+2021-12-31 16:45:58,402 - LT_Logger -INFO - Enter password 
+2021-12-31 16:45:58,545 - LT_Logger -INFO - Enter first name
+2021-12-31 16:45:58,678 - LT_Logger -INFO - Enter last name
+2021-12-31 16:45:58,813 - LT_Logger -INFO - Enter comapny name
+2021-12-31 16:45:58,960 - LT_Logger -INFO - Click on save button
+2021-12-31 17:18:52,425 - LT_Logger -INFO - Home page is launched
+2021-12-31 17:18:58,242 - LT_Logger -INFO - Click on Add New button
+2021-12-31 17:19:00,768 - LT_Logger -INFO - Enter Email Id
+2021-12-31 17:19:01,017 - LT_Logger -INFO - Enter password 
+2021-12-31 17:19:01,191 - LT_Logger -INFO - Enter first name
+2021-12-31 17:19:01,340 - LT_Logger -INFO - Enter last name
+2021-12-31 17:19:01,476 - LT_Logger -INFO - Enter comapny name
+2021-12-31 17:19:01,683 - LT_Logger -INFO - Click on save button
+2021-12-31 17:20:07,940 - LT_Logger -INFO - Home page is launched
+2021-12-31 17:20:12,918 - LT_Logger -INFO - Click on Add New button
+2021-12-31 17:20:15,059 - LT_Logger -INFO - Enter Email Id
+2021-12-31 17:20:15,290 - LT_Logger -INFO - Enter password 
+2021-12-31 17:20:15,444 - LT_Logger -INFO - Enter first name
+2021-12-31 17:20:15,580 - LT_Logger -INFO - Enter last name
+2021-12-31 17:20:15,711 - LT_Logger -INFO - Enter comapny name
+2021-12-31 17:20:15,865 - LT_Logger -INFO - Click on save button
+2021-12-31 17:33:20,935 - LT_Logger -INFO - Home page is launched
+2021-12-31 17:33:26,562 - LT_Logger -INFO - Click on Add New button
+2021-12-31 17:33:29,113 - LT_Logger -INFO - Enter Email Id
+2021-12-31 17:33:29,343 - LT_Logger -INFO - Enter password 
+2021-12-31 17:33:29,509 - LT_Logger -INFO - Enter first name
+2021-12-31 17:33:29,653 - LT_Logger -INFO - Enter last name
+2021-12-31 17:33:29,794 - LT_Logger -INFO - Enter comapny name
+2021-12-31 17:33:29,979 - LT_Logger -INFO - Click on save button
+2021-12-31 17:36:47,053 - LT_Logger -INFO - Home page is launched
+2021-12-31 17:36:53,110 - LT_Logger -INFO - Click on Add New button
+2021-12-31 17:36:55,625 - LT_Logger -INFO - Enter Email Id
+2021-12-31 17:36:55,838 - LT_Logger -INFO - Enter password 
+2021-12-31 17:36:55,999 - LT_Logger -INFO - Enter first name
+2021-12-31 17:36:56,166 - LT_Logger -INFO - Enter last name
+2021-12-31 17:36:56,310 - LT_Logger -INFO - Enter comapny name
+2021-12-31 17:36:56,487 - LT_Logger -INFO - Click on save button
+2022-01-07 15:00:51,433 - LT_Logger -INFO - Home page is launched
+2022-01-07 15:00:51,472 - LT_Logger -INFO - Home page is launched
+2022-01-07 15:00:52,090 - LT_Logger -INFO - Enter username
+2022-01-07 15:00:52,303 - LT_Logger -INFO - Enter password
+2022-01-07 15:00:57,065 - LT_Logger -INFO - Click on login button
+2022-01-07 15:00:59,028 - LT_Logger -INFO - Click on customer tab
+2022-01-07 15:00:59,500 - LT_Logger -INFO - Click on Add New button
+2022-01-07 15:01:00,278 - LT_Logger -INFO - Click on Add New button
+2022-01-07 15:01:01,276 - LT_Logger -INFO - Click on sub customer tab
+2022-01-07 15:01:01,854 - LT_Logger -INFO - Enter Email Id
+2022-01-07 15:01:02,364 - LT_Logger -INFO - Enter password 
+2022-01-07 15:01:02,615 - LT_Logger -INFO - Enter first name
+2022-01-07 15:01:02,673 - LT_Logger -INFO - Enter Email Id
+2022-01-07 15:01:02,876 - LT_Logger -INFO - Enter last name
+2022-01-07 15:01:02,981 - LT_Logger -INFO - Enter password 
+2022-01-07 15:01:03,063 - LT_Logger -INFO - Enter comapny name
+2022-01-07 15:01:03,186 - LT_Logger -INFO - Enter first name
+2022-01-07 15:01:03,243 - LT_Logger -INFO - Click on save button
+2022-01-07 15:01:03,408 - LT_Logger -INFO - Enter last name
+2022-01-07 15:01:03,574 - LT_Logger -INFO - Enter comapny name
+2022-01-07 15:01:03,887 - LT_Logger -INFO - Click on save button
+2022-01-07 15:01:04,112 - LT_Logger -INFO - Click on logout button
+2022-01-07 15:01:06,407 - LT_Logger -INFO - Click on search text
+2022-01-07 15:01:08,520 - LT_Logger -INFO - Enter the email id
+2022-01-07 15:01:09,391 - LT_Logger -INFO - Click on Add New button
+2022-01-07 15:01:11,132 - LT_Logger -INFO - Enter Email Id
+2022-01-07 15:01:11,602 - LT_Logger -INFO - Enter password 
+2022-01-07 15:01:11,757 - LT_Logger -INFO - Enter first name
+2022-01-07 15:01:11,896 - LT_Logger -INFO - Enter last name
+2022-01-07 15:01:12,033 - LT_Logger -INFO - Enter comapny name
+2022-01-07 15:01:12,184 - LT_Logger -INFO - Click on save button
+2022-01-07 15:01:14,686 - LT_Logger -INFO - Click on search text
+2022-01-07 15:01:16,768 - LT_Logger -INFO - Enter the email id
+2022-01-07 15:01:17,087 - LT_Logger -INFO - Click on Add New button
+2022-01-07 15:01:19,410 - LT_Logger -INFO - Click on search button
+2022-01-07 15:01:19,532 - LT_Logger -INFO - Enter Email Id
+2022-01-07 15:01:20,008 - LT_Logger -INFO - Enter password 
+2022-01-07 15:01:20,185 - LT_Logger -INFO - Enter first name
+2022-01-07 15:01:20,366 - LT_Logger -INFO - Enter last name
+2022-01-07 15:01:20,520 - LT_Logger -INFO - Enter comapny name
+2022-01-07 15:01:20,693 - LT_Logger -INFO - Click on save button
+2022-01-07 15:01:25,652 - LT_Logger -INFO - Click on Add New button
+2022-01-07 15:01:27,899 - LT_Logger -INFO - Enter Email Id
+2022-01-07 15:01:28,206 - LT_Logger -INFO - Enter password 
+2022-01-07 15:01:28,421 - LT_Logger -INFO - Enter first name
+2022-01-07 15:01:28,597 - LT_Logger -INFO - Enter last name
+2022-01-07 15:01:28,792 - LT_Logger -INFO - Enter comapny name
+2022-01-07 15:01:28,988 - LT_Logger -INFO - Click on save button
+2022-01-07 15:03:21,007 - LT_Logger -INFO - Enter username
+2022-01-07 15:03:21,171 - LT_Logger -INFO - Enter password
+2022-01-07 15:03:24,884 - LT_Logger -INFO - Click on login button
+2022-01-07 15:03:26,271 - LT_Logger -INFO - Click on customer tab
+2022-01-07 15:03:28,367 - LT_Logger -INFO - Click on sub customer tab
+2022-01-07 15:03:33,536 - LT_Logger -INFO - Click on search text
+2022-01-07 15:03:35,630 - LT_Logger -INFO - Enter the email id
+2022-01-07 15:03:41,731 - LT_Logger -INFO - Click on search text
+2022-01-07 15:03:43,795 - LT_Logger -INFO - Enter the email id
+2022-01-07 15:03:45,911 - LT_Logger -INFO - Click on search button
+2022-01-07 15:28:24,924 - LT_Logger -INFO - Enter username
+2022-01-07 15:28:25,107 - LT_Logger -INFO - Enter password
+2022-01-07 15:28:29,902 - LT_Logger -INFO - Click on login button
+2022-01-07 15:28:30,682 - LT_Logger -INFO - Click on customer tab
+2022-01-07 15:28:32,821 - LT_Logger -INFO - Click on sub customer tab
+2022-01-07 15:28:37,850 - LT_Logger -INFO - Click on search text
+2022-01-07 15:28:40,025 - LT_Logger -INFO - Enter the email id
+2022-01-07 15:28:46,160 - LT_Logger -INFO - Click on search text
+2022-01-07 15:28:48,267 - LT_Logger -INFO - Enter the email id
+2022-01-07 15:28:50,394 - LT_Logger -INFO - Click on search button
+2022-01-11 11:47:20,444 - LT_Logger -INFO - Enter username
+2022-01-11 11:47:20,658 - LT_Logger -INFO - Enter password
+2022-01-11 11:47:25,195 - LT_Logger -INFO - Click on login button
+2022-01-11 11:47:26,527 - LT_Logger -INFO - Click on customer tab
+2022-01-11 11:47:28,670 - LT_Logger -INFO - Click on sub customer tab
+2022-01-11 11:47:33,671 - LT_Logger -INFO - Click on search text
+2022-01-11 11:47:35,793 - LT_Logger -INFO - Enter the email id
+2022-01-11 11:47:41,959 - LT_Logger -INFO - Click on search text
+2022-01-11 11:47:44,054 - LT_Logger -INFO - Enter the email id
+2022-01-11 11:47:46,217 - LT_Logger -INFO - Click on search button
+2022-01-11 11:47:54,530 - LT_Logger -INFO - Click on search text
+2022-01-11 11:47:56,624 - LT_Logger -INFO - Enter the email id
+2022-01-11 11:48:02,702 - LT_Logger -INFO - Click on search text
+2022-01-11 11:48:04,806 - LT_Logger -INFO - Enter the email id
+2022-01-11 11:48:06,943 - LT_Logger -INFO - Click on search button
+2022-01-11 12:41:32,711 - LT_Logger -INFO - Enter username
+2022-01-11 12:41:33,034 - LT_Logger -INFO - Enter password
+2022-01-11 12:41:45,988 - LT_Logger -INFO - Click on login button
+2022-01-11 12:41:47,360 - LT_Logger -INFO - Click on customer tab
+2022-01-11 12:41:49,495 - LT_Logger -INFO - Click on sub customer tab
+2022-01-11 12:41:55,267 - LT_Logger -INFO - Click on search text
+2022-01-11 12:41:57,385 - LT_Logger -INFO - Enter the email id
+2022-01-11 12:42:03,538 - LT_Logger -INFO - Click on search text
+2022-01-11 12:42:05,628 - LT_Logger -INFO - Enter the email id
+2022-01-11 12:42:07,764 - LT_Logger -INFO - Click on search button
+2022-01-13 20:17:01,302 - LT_Logger -INFO - launching the url in Chrome
+2022-01-13 20:17:02,066 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 20:17:03,135 - LT_Logger -INFO - Performing login operation
+2022-01-13 20:17:03,605 - LT_Logger -INFO - Verifying the default filter selection
+2022-01-13 20:17:04,380 - LT_Logger -INFO - performing add and remove products
+2022-01-13 20:17:14,891 - LT_Logger -INFO - verfying the checkout page
+2022-01-13 20:17:15,092 - LT_Logger -INFO - Applying price low to high filter
+2022-01-13 20:18:31,342 - LT_Logger -INFO - launching the url in Chrome
+2022-01-13 20:18:31,842 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 20:18:32,895 - LT_Logger -INFO - Performing login operation
+2022-01-13 20:18:33,334 - LT_Logger -INFO - Verifying the default filter selection
+2022-01-13 20:18:33,962 - LT_Logger -INFO - performing add and remove products
+2022-01-13 20:19:29,081 - LT_Logger -INFO - launching the url in Chrome
+2022-01-13 20:19:29,681 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 20:19:30,753 - LT_Logger -INFO - Performing login operation
+2022-01-13 20:19:31,305 - LT_Logger -INFO - Verifying the default filter selection
+2022-01-13 20:19:32,253 - LT_Logger -INFO - performing add and remove products
+2022-01-13 20:19:42,722 - LT_Logger -INFO - verfying the checkout page
+2022-01-13 20:19:42,899 - LT_Logger -INFO - Applying price low to high filter
+2022-01-13 20:23:35,044 - LT_Logger -INFO - launching the url in Chrome
+2022-01-13 20:23:35,626 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 20:23:36,690 - LT_Logger -INFO - Performing login operation
+2022-01-13 20:23:37,162 - LT_Logger -INFO - Verifying the default filter selection
+2022-01-13 20:23:37,947 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 20:23:38,995 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 20:23:40,032 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 20:34:22,484 - LT_Logger -INFO - launching the url in Chrome
+2022-01-13 20:34:23,107 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 20:34:24,164 - LT_Logger -INFO - Performing login operation
+2022-01-13 20:34:24,662 - LT_Logger -INFO - Verifying the default filter selection
+2022-01-13 20:35:42,352 - LT_Logger -INFO - launching the url in Chrome
+2022-01-13 20:35:42,924 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 20:35:43,984 - LT_Logger -INFO - Performing login operation
+2022-01-13 20:35:44,504 - LT_Logger -INFO - Verifying the default filter selection
+2022-01-13 20:35:45,177 - LT_Logger -INFO - performing add and remove products
+2022-01-13 20:35:55,768 - LT_Logger -INFO - verfying the checkout page
+2022-01-13 20:35:55,959 - LT_Logger -INFO - Applying price low to high filter
+2022-01-13 20:41:18,089 - LT_Logger -INFO - launching the url in Chrome
+2022-01-13 20:41:18,724 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 20:41:19,779 - LT_Logger -INFO - Performing login operation
+2022-01-13 20:41:20,247 - LT_Logger -INFO - Verifying the default filter selection
+2022-01-13 20:41:20,994 - LT_Logger -INFO - performing add and remove products
+2022-01-13 20:41:31,545 - LT_Logger -INFO - verfying the checkout page
+2022-01-13 20:41:31,720 - LT_Logger -INFO - Applying price low to high filter
+2022-01-13 20:45:54,571 - LT_Logger -INFO - launching the url in Chrome
+2022-01-13 20:45:55,199 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 20:45:56,261 - LT_Logger -INFO - Performing login operation
+2022-01-13 20:45:56,733 - LT_Logger -INFO - Verifying the default filter selection
+2022-01-13 20:45:57,471 - LT_Logger -INFO - performing add and remove products
+2022-01-13 20:46:07,975 - LT_Logger -INFO - verfying the checkout page
+2022-01-13 20:46:08,166 - LT_Logger -INFO - Applying price low to high filter
+2022-01-13 20:50:12,786 - LT_Logger -INFO - launching the url in Chrome
+2022-01-13 20:50:13,478 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 20:50:14,535 - LT_Logger -INFO - Performing login operation
+2022-01-13 20:50:15,048 - LT_Logger -INFO - Verifying the default filter selection
+2022-01-13 20:50:15,844 - LT_Logger -INFO - performing add and remove products
+2022-01-13 20:50:26,386 - LT_Logger -INFO - verfying the checkout page
+2022-01-13 20:50:26,580 - LT_Logger -INFO - Applying price low to high filter
+2022-01-13 21:14:26,647 - LT_Logger -INFO - launching the url in Chrome
+2022-01-13 21:14:27,263 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:14:28,332 - LT_Logger -INFO - Performing login operation
+2022-01-13 21:14:28,888 - LT_Logger -INFO - Verifying the default filter selection
+2022-01-13 21:14:29,584 - LT_Logger -INFO - performing add and remove products
+2022-01-13 21:14:40,398 - LT_Logger -INFO - verfying the checkout page
+2022-01-13 21:14:40,594 - LT_Logger -INFO - Applying price low to high filter
+2022-01-13 21:21:25,901 - LT_Logger -INFO - launching the url in Chrome
+2022-01-13 21:21:26,657 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:21:27,726 - LT_Logger -INFO - Performing login operation
+2022-01-13 21:21:28,267 - LT_Logger -INFO - Verifying the default filter selection
+2022-01-13 21:21:29,217 - LT_Logger -INFO - performing add and remove products
+2022-01-13 21:21:39,700 - LT_Logger -INFO - verfying the checkout page
+2022-01-13 21:21:39,884 - LT_Logger -INFO - Applying price low to high filter
+2022-01-13 21:21:47,161 - LT_Logger -INFO - launching the url in Chrome
+2022-01-13 21:21:48,707 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:21:49,759 - LT_Logger -INFO - Performing login operation
+2022-01-13 21:21:50,276 - LT_Logger -INFO - Verifying the default filter selection
+2022-01-13 21:21:51,123 - LT_Logger -INFO - performing add and remove products
+2022-01-13 21:22:01,652 - LT_Logger -INFO - verfying the checkout page
+2022-01-13 21:22:01,810 - LT_Logger -INFO - Applying price low to high filter
+2022-01-13 21:22:54,993 - LT_Logger -INFO - launching the url in Chrome
+2022-01-13 21:22:55,558 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:22:56,623 - LT_Logger -INFO - Performing login operation
+2022-01-13 21:22:57,165 - LT_Logger -INFO - Verifying the default filter selection
+2022-01-13 21:22:57,943 - LT_Logger -INFO - performing add and remove products
+2022-01-13 21:23:08,555 - LT_Logger -INFO - verfying the checkout page
+2022-01-13 21:23:08,724 - LT_Logger -INFO - Applying price low to high filter
+2022-01-13 21:23:15,754 - LT_Logger -INFO - launching the url in Chrome
+2022-01-13 21:23:16,320 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:23:17,366 - LT_Logger -INFO - Performing login operation
+2022-01-13 21:23:17,835 - LT_Logger -INFO - Verifying the default filter selection
+2022-01-13 21:23:18,894 - LT_Logger -INFO - performing add and remove products
+2022-01-13 21:23:41,858 - LT_Logger -INFO - launching the url in Chrome
+2022-01-13 21:23:42,399 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:23:43,466 - LT_Logger -INFO - Performing login operation
+2022-01-13 21:23:43,962 - LT_Logger -INFO - Verifying the default filter selection
+2022-01-13 21:23:44,682 - LT_Logger -INFO - performing add and remove products
+2022-01-13 21:23:55,183 - LT_Logger -INFO - verfying the checkout page
+2022-01-13 21:23:55,358 - LT_Logger -INFO - Applying price low to high filter
+2022-01-13 21:24:01,508 - LT_Logger -INFO - launching the url in Chrome
+2022-01-13 21:24:02,030 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:24:03,079 - LT_Logger -INFO - Performing login operation
+2022-01-13 21:24:03,579 - LT_Logger -INFO - Verifying the default filter selection
+2022-01-13 21:24:04,398 - LT_Logger -INFO - performing add and remove products
+2022-01-13 21:24:14,788 - LT_Logger -INFO - verfying the checkout page
+2022-01-13 21:24:14,937 - LT_Logger -INFO - Applying price low to high filter
+2022-01-13 21:37:04,894 - LT_Logger -INFO - launching the url in Chrome
+2022-01-13 21:37:05,497 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:37:06,559 - LT_Logger -INFO - Performing login operation
+2022-01-13 21:37:07,039 - LT_Logger -INFO - Verifying the default filter selection
+2022-01-13 21:37:07,666 - LT_Logger -INFO - performing add and remove products
+2022-01-13 21:37:18,356 - LT_Logger -INFO - verfying the checkout page
+2022-01-13 21:37:18,532 - LT_Logger -INFO - Applying price low to high filter
+2022-01-13 21:37:18,729 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:37:19,774 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:37:20,824 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:37:27,395 - LT_Logger -INFO - launching the url in Chrome
+2022-01-13 21:37:28,016 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:37:29,063 - LT_Logger -INFO - Performing login operation
+2022-01-13 21:37:29,773 - LT_Logger -INFO - Verifying the default filter selection
+2022-01-13 21:37:30,324 - LT_Logger -INFO - performing add and remove products
+2022-01-13 21:37:40,876 - LT_Logger -INFO - verfying the checkout page
+2022-01-13 21:37:41,016 - LT_Logger -INFO - Applying price low to high filter
+2022-01-13 21:37:41,143 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:37:42,168 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:37:43,193 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:50:29,365 - LT_Logger -INFO - launching the url in Chrome
+2022-01-13 21:50:29,952 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:50:31,017 - LT_Logger -INFO - Performing login operation
+2022-01-13 21:50:31,543 - LT_Logger -INFO - Verifying the default filter selection
+2022-01-13 21:50:32,161 - LT_Logger -INFO - performing add and remove products
+2022-01-13 21:50:42,866 - LT_Logger -INFO - verfying the checkout page
+2022-01-13 21:50:43,111 - LT_Logger -INFO - Applying price low to high filter
+2022-01-13 21:50:43,321 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:50:44,374 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:50:45,404 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:50:52,612 - LT_Logger -INFO - launching the url in Chrome
+2022-01-13 21:50:53,246 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:50:54,305 - LT_Logger -INFO - Performing login operation
+2022-01-13 21:50:54,784 - LT_Logger -INFO - Verifying the default filter selection
+2022-01-13 21:50:55,723 - LT_Logger -INFO - performing add and remove products
+2022-01-13 21:51:06,145 - LT_Logger -INFO - verfying the checkout page
+2022-01-13 21:51:06,284 - LT_Logger -INFO - Applying price low to high filter
+2022-01-13 21:51:06,415 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:51:07,449 - LT_Logger -INFO - Performing validations in login page
+2022-01-13 21:51:08,473 - LT_Logger -INFO - Performing validations in login page
