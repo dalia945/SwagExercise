@@ -63,7 +63,7 @@ public class ProductListPage {
 	public void filter() {
 		Select List = new Select(FilterBox);
 		List.isMultiple();
-		List.selectByIndex(8);
+		List.selectByIndex(2);
 	}
 //	Select List = new Select(ListBox);
 //	List.isMultiple();
